@@ -1,0 +1,518 @@
+/* 
+  Localizable.strings
+  library
+
+  Created by Simone Montalto on 27/10/2019.
+  Copyright © 2019 Simone Montalto. All rights reserved.
+*/
+
+"Library" = "Biblioteca";
+"Search" = "Cerca";
+"SearchOnline" = "Cerca en línia";
+"Scan" = "Escaneja el codi de barres";
+"Wishlist" = "Llista de desitjos";
+"Settings" = "Configuració";
+"Filters" = "Filtres";
+"Filter" = "Filtre";
+"Reset" = "Restableix";
+"Select" = "Selecciona";
+"Save" = "Desa";
+"PagesNumber" = "%i pàgines";
+"NotAvailable" = "n/d";
+"ManageBook" = "Afegeix o suprimeix el llibre de la biblioteca o de la llista de desitjos";
+"AddToLibrary" = "Afegeix a la biblioteca";
+"RemoveFromLibrary" = "Suprimeix de la biblioteca";
+"AddToWishlist" = "Afegeix a la llista de desitjos";
+"RemoveFromWishlist" = "Suprimeix de la llista de desitjos";
+"MarkAsRead" = "Marcar com llegit";
+"MarkAsUnread" = "Marcar com no llegit";
+"InsertComment" = "Afegeix un comentari...";
+"PersonalComment" = "Comentari personal";
+"Amazon" = "Obre a Amazon";
+"GoogleBook" = "Obre a Google Books";
+"Goodreads" = "Obre a Goodreads";
+"ScanBarCode" = "Si us plau, escaneja el codi de barres per recuperar la informació del llibre";
+"AddBookPlaceholder" = "Afegeix llibres a la teva llista tocant la icona +";
+"SearchBookPlaceholder" = "Cerca llibres per títol, autor o ISBN";
+
+"TitlePlaceholder" = "Introdueix el títol...";
+"AuthorsPlaceholder" = "Introdueix els autors...";
+"CategoriesPlaceholder" = "Introdueix categories...";
+"PublisherPlaceholder" = "Introdueix l'editorial...";
+"IsbnPlaceholder" = "Introdueix l'ISBN...";
+"DescriptionPlaceholder" = "Introdueix la descripció...";
+"PagesPlaceholder" = "Introdueix el nombre de pàgines...";
+"ReleasePlaceholder" = "Introdueix la data de publicació...";
+
+"ManageTags" = "Gestionar etiquetes";
+"Import" = "Importar";
+"Export" = "Exportar";
+"ExportToCsv" = "CSV";
+"ExportToPdf" = "PDF";
+"SendEmail" = "Envia un correu electrònic";
+"About" = "Sobre";
+"DeleteAll" = "Eliminar tots els llibres";
+"ReduceHaptic" = "Redueix les vibracions";
+"EmailSubject" = "Suport %@. Versió: %@ - %@";
+
+"InfoMessage1" = "%@ és una aplicació per tenir un registre fàcil dels llibres que has comprat i els que t'agradaria llegir. Pots afegir un llibre cercant-lo per nom, autor, ISBN, escanejant el codi de barres o introduint manualment tots els detalls.\n\nSi tens iCloud habilitat al teu dispositiu, la biblioteca es sincronitzarà automàticament amb tots els teus dispositius iOS.\n\nPer a qualsevol dubte o sol·licitud, pots enviar un correu electrònic des de la pàgina \"Configuració\".";
+
+"Attention" = "Atenció";
+"Ok" = "D'acord";
+"Cancel" = "Cancel·lar";
+"Insert" = "Introdueix manualment";
+"Add" = "Afegeix";
+"AddNew" = "Afegeix nou";
+"Tags" = "Etiquetes";
+"Categories" = "Categories";
+"Authors" = "Autors";
+"ReadingStatus" = "Progrés de la lectura";
+
+"DeleteAllTitle" = "N'estàs segur?";
+"DeleteAllMessage" = "Aquesta acció és irreversible i tots els llibres se suprimiran de la teva biblioteca";
+"DeleteAllAction" = "Eliminar-los tots";
+
+"IsbnNotFoundMessage" = "No s'ha trobat cap llibre cercant amb el codi de barres. Vols intentar-ho amb una cerca menys precisa? Pot ser que el resultat no es correspongui amb el codi de barres";
+
+"CannotShowEmailComposerTitle" = "No es pot enviar el correu electrònic";
+"CannotShowEmailComposerMessage" = "Per enviar el correu electrònic, has de configurar l'app al vostre dispositiu";
+
+"InsertOrSearchTitle" = "Afegeix un llibre";
+
+"CameraPermissionNotGranted" = "No és possible accedir a la càmera perquè no has concedit els permisos. Si us plau, ves a la configuració de l'app i permet l'accés a la càmera.";
+"OpenSettings" = "Obrir Configuració";
+
+"SaveBookError" = "S'ha produït un error en desar el llibre. Si us plau, torna-ho a provar.";
+
+"BarCodeBookNotFound" = "No s'ha trobat cap llibre cercant amb el codi de barres. Si us plau, cerca el llibre manualment.";
+"BarCodeBookSetupNotCompleted" = "El teu dispositiu no permet escanejar el codi de barres. Si us plau, cerca el llibre manualment.";
+
+"SortTitle" = "Ordenar llista";
+"SortByName" = "Per títol";
+"SortByInsertionDate" = "Per data d'inserció";
+"SortByAuthor" = "Per autor";
+"SortByPublicationDate" = "Per data de publicació";
+
+"SendEmailTitle" = "Quina aplicació vols utilitzar per enviar el correu electrònic?";
+"Mail" = "Mail";
+"Gmail" = "Gmail";
+"Spark" = "Spark";
+
+"OnboardingTitle" = "Novetats a Book Track";
+"Onboarding1Title" = "Gestiona la teva biblioteca";
+"Onboarding1Message" = "Porta el registre dels llibres que has comprat i consulta'ls fàcilment";
+"Onboarding2Title" = "Gestiona la teva llista de desitjos";
+"Onboarding2Message" = "T'agradaria comprar un nou llibre? Afegeix-lo a la teva llista de desitjos";
+"Onboarding3Title" = "Afegeix nous llibres";
+"Onboarding3Message" = "Afegeix nous llibres cercant-los en línia, escanejant el codi de barres o afegint-los manualment";
+"Onboarding4Title" = "Biblioteca desada al núvol";
+"Onboarding4Message" = "La vostra biblioteca i la vostra llista de desitjos es desaran automàticament al vostre compte d'iCloud si tant iCloud com iCloud Drive estan habilitats";
+"Onboarding5Title" = "Importa la biblioteca";
+"Onboarding5Message" = "Importa els teus llibres d'altres aplicacions i serveis perquè no hagis de començar a crear la teva biblioteca de nou";
+"Onboarding6Title" = "S'està desant el pressupost";
+"Onboarding6Message" = "Desa les teves cites preferides en un sol lloc perquè les puguis tornar a llegir més tard";
+"Onboarding7Title" = "Reptes de lectura";
+"Onboarding7Message" = "Consulteu les estadístiques de la biblioteca i de lectura i col·loqueu-les directament a la vostra pantalla d'inici amb ginys fantàstics";
+"Continue" = "Continuar";
+"TryForFree" = "Prova gratis";
+
+"ReadFilterAll" = "Mostrar tots els llibres";
+"ReadFilterRead" = "Mostra els llibres llegits";
+"ReadFilterNotRead" = "Mostra els llibres no llegits";
+"ReadFilterDnf" = "Mostra els llibres no acabats";
+"Read" = "Llegits";
+"ResetFilter" = "Restablir el filtre";
+
+"SearchInLibraryPlaceholder" = "Cerca a la biblioteca";
+"SearchInWishListPlaceholder" = "Cerca a la llista de desitjos";
+"SearchOnlinePlaceholder" = "Cerca en línia";
+"NotFoundInLibrary" = "No s'ha trobat cap llibre a la teva biblioteca";
+"NotFoundInWishList" = "No s'ha trobat cap llibre a la teva llista de desitjos";
+
+"ExportTitle" = "En quin format vols exportar els teus llibres";
+
+"ImportErrorTitle" = "Error";
+"ImportErrorMessage" = "No és possible importar els teus llibres. Has de seleccionar un fitxer csv. Si no estàs segur del format del fitxer, prova d'exportar un fitxer csv de Book Track i comprova el nom de les columnes.";
+
+"ImportSuccessTitle" = "Felicitats";
+"ImportSuccessMessage" = "Has importat correctament els teus llibres a Book Track.\n\nTotal: %@\nAmb èxit: %@\nErrors: %@";
+
+"WaitLoading" = "Si us plau, espera...";
+
+"EditImage" = "Editar la imatge";
+"ScanImage" = "Escanejar la imatge";
+"SelectImage" = "Seleccionar la imatge";
+
+"SelectIcon" = "Selecciona la icona de l'aplicació";
+"AppIconDefault" = "Per defecte";
+"AppIconBlack" = "Negre";
+"AppIconWhite" = "Blanc";
+"AppIconLaunched" = "Launched";
+"AppIconBigSur" = "Big Sur";
+"AppIconClassic" = "Clàssic";
+"AppIconBigSurClassic" = "Big Sur - Clàssic";
+
+"Ascending" = "Ascendent";
+"Descending" = "Descendent";
+
+"OtherFromSeries" = "Altres de la sèrie";
+"Series" = "Sèries";
+"SortBySeries" = "Per sèries";
+
+"Title" = "Títol";
+"Isbn" = "ISBN";
+"Isbn10" = "ISBN 10";
+"Isbn13" = "ISBN 13";
+"GoogleId" = "Google Id";
+"Goodread" = "Goodreads Id";
+"AuthorList" = "Autors";
+"Publisher" = "Editorial";
+"ReleaseDate" = "Data de publicació";
+"Description" = "Descripció";
+"Rating" = "Valoració";
+"Pages" = "Pàgines";
+
+"SelectHeaderPlaceholder" = "Selecciona la capçalera";
+
+"SelectFile" = "Selecciona el fitxer";
+"File" = "Fitxer";
+"LeaveATip" = "Deixa una propina";
+"LeaveATipDescription" = "Hola, sóc en Simone, el desenvolupador de Book Track. Espero que t'agradi l'aplicació i que t'ajudi a mantenir la teva biblioteca organitzada.\n\nSi vols recolzar al meu treball i col·laborar en les despeses de manteniment i millora de l'app, pots fer una donació. Moltes gràcies! ❤️";
+"ThanksgivingTitle" = "Compra completada";
+"ThanksgivingMessage" = "Gràcies pel teu recolzament ❤️";
+"ErrorOccurred" = "S'ha produït un problema. Prova-ho més tard";
+"CannotMakePurchase" = "El teu dispositiu no està habilitat per fer compres";
+
+"Reddit" = "Comunitat Book Track";
+"Website" = "Lloc web";
+"Twitter" = "Twitter";
+"Facebook" = "Facebook";
+
+"Statistics" = "Estadístiques";
+"ReadBooksYear" = "Llibres llegits / any";
+"ReadBooksMonth" = "Llibres llegits / mes";
+"ReadFilterReading" = "Mostrar els llibres que estic llegint";
+"dnf" = "Sense acabar";
+"to-read" = "Per llegir";
+"reading" = "Llegint";
+"read" = "Llegits";
+"StartedDate" = "Començat";
+"FinishedDate" = "Acabat";
+"StartedDatePlaceholder" = "Data d'inici de la lectura...";
+"FinishedDatePlaceholder" = "Data de finalització de la lectura...";
+"NoBooksInSection" = "No hi ha llibres en aquesta secció";
+"Quotes" = "Cites";
+"AddQuote" = "Afegeix una cita";
+"TakePicture" = "Fes una nova foto";
+"OCR" = "OCR";
+"ShowLess" = "Mostra menys";
+"ShowMore" = "Mostra més";
+"ManageSeries" = "Gestiona sèries";
+"SentWithBookTrack" = "Enviat amb Book Track - Gestor de Biblioteca";
+"LoanedOut" = "Prestat";
+"Delete" = "Suprimeix";
+"Edit" = "Edita";
+"InsertName" = "Introdueix el nom...";
+"InsertSurname" = "Introdueix el cognoms...";
+"AddContact" = "Afegeix contacte";
+"InsertNameSurname" = "Introdueix nom i cognoms";
+"AddContactPlaceholder" = "Afegeix contactes a la teva llista tocant la icona +";
+"LoanedBook" = "Llibre prestat";
+"EndLoan" = "Finalitza el préstec";
+"LoanStart" = "Inicia el préstec";
+"SortByRating" = "Per valoració";
+"SortByReadingDate" = "Per data de lectura";
+"ManageAuthors" = "Gestiona autors";
+"ManageCategories" = "Gestiona categories";
+"AddAuthor" = "Afegeix autor";
+
+"%lld of %lld" = "%lld de %lld";
+"ProgressWidgetTitle" = "Progrés de la lectura";
+"SelectBookWidgetDescription" = "Selecciona el llibre";
+"PagesRead" = "Pàgines llegides";
+"DeleteBookMessage" = "Aquesta acció és irreversible i el llibre se suprimirà de la teva biblioteca";
+"AddTags" = "Afegeix etiquetes";
+"AddSeries" = "Afegeix sèries";
+"AddAuthors" = "Afegeix autors";
+"AddCategories" = "Afegeix categories";
+"MoveToWishlist" = "Mou a la llista de desitjos";
+"MoveToLibrary" = "Mou a la biblioteca";
+"Dismiss" = "Descartar";
+
+"FillMissignFields" = "Actualitza el llibre en línia";
+"MergeOrOverwriteTitle" = "Actualitza el llibre en línia";
+"MergeOrOverwriteMessage" = "Vols sobreescriure o emplenar els camps que falten del llibre?";
+"Overwrite" = "Sobreescriure";
+"Merge" = "Emplenar els camps que falten";
+
+"StandardLayout" = "Estàndard";
+"CompactLayout" = "Compacte";
+"LittleCardLayout" = "Coberta (petita)";
+"BigCardLayout" = "Coberta (gran)";
+"ListLayout" = "Llista";
+
+"InsertionDate" = "Data d'inserció";
+"ReadingDate" = "Data de lectura";
+
+"Advanced" = "Avançat";
+"AdvancedSearch" = "Cerca avançada";
+"AdvancedSortTitle" = "Classificació avançada";
+"Priority" = "Prioritat";
+"LanguagePlaceholder" = "Introdueix l'idioma...";
+"Language" = "Idioma";
+"AddRule" = "Afegeix una regla";
+"OfNPagesRead" = "de %lld pàgines llegides";
+"ReadProgress" = "Progrés de lectura";
+"Year" = "Any";
+"InsertBookPages" = "Has d'introduir el nombre de pàgines del llibre per gestionar el teu progrés de lectura";
+"SelectContact" = "Selecciona contacte";
+"AddQuotesPlaceholder" = "Afegeix cites a la teva llista tocant la icona +";
+"AddBook" = "Afegir llibre";
+"Share" = "Compartir";
+"Quote" = "Cita";
+"Dark" = "Fosc";
+"Light" = "Clar";
+
+"InAppDescription" = "Hola! 👋 Book Track ha estat creat per Simone 👨🏻‍💻 amb la col·laboració de Carmenb 👩🏻‍🎨! ¡Pots convertir-te en usuari de Book Track Pro amb una sola compra a l'app, i ajudar-nos a treballar en millores i en la incorporació noves funcions!";
+"TipJarDescription" = "Hola! 👋 Book Track ha estat creat per Simone 👨🏻‍💻 amb la col·laboració de Carmenb 👩🏻‍🎨! ¡Pots convertir-te en usuari de Book Track Pro amb una sola compra a l'app, i ajudar-nos a treballar en millores i en la incorporació noves funcions!";
+"InAppFeature1" = "Nombre il·limitat de llibres";
+"InAppFeature2" = "Canvia la icona de l'aplicació";
+"InAppFeature3" = "Importa i exporta la teva biblioteca";
+"InAppFeature4" = "Dona suport a un desenvolupament independent";
+"InAppFooter" = "Book Track respecta la teva privacitat i no recull cap dada teva. Totes les funcions es realitzen al teu dispositiu i les dades es sincronitzen mitjançant el teu compte d'iCloud.";
+"InAppPurchase" = "Compra %@";
+"InAppRestore" = "Restaura les compres";
+"NoPurchaseToRestore" = "No hi ha compres per restaurar amb el vostre compte";
+"PremiumTitle" = "Book Track Pro";
+"PremiumSubtitle" = "Desbloqueja totes les funcions";
+"Duplicate" = "Duplicat";
+
+"ImportSelectFileTitle" = "Book Track admet la importació de biblioteques en format CSV. Selecciona un fitxer CSV per importar la teva biblioteca des d'una altra aplicació o servei a Book Track. Si vols importar la biblioteca de Goodreads, pots exportar el fitxer CSV des del lloc web de Goodreads.";
+"ImportAssociateFieldsTitle" = "Book Track intenta associar automàticament els noms de columnes del fitxer CSV amb els camps de l'aplicació. Si algun camp roman buit, selecciona'l per poder-lo associar manualment. Si alguns camps no estan disponibles al fitxer CSV, poden romandre buits. Per continuar amb la importació, com a mínim s'ha de seleccionar el camp del títol.";
+
+"Location" = "Ubicació";
+"Bookcase" = "Llibreria";
+"Shelf" = "Prestatge";
+"AddLocation" = "Afegeix la ubicació";
+"AddSeriesPlaceholder" = "Afegeix sèries a la teva llista tocant la icona +";
+"AddCategoriesPlaceholder" = "Afegeix categories a la teva llista tocant la icona +";
+"AddLocationsPlaceholder" = "Afegeix ubicacions a la teva llista tocant la icona +";
+"AddBookcasesPlaceholder" = "Afegeix llibreries a la teva llista tocant la icona +";
+"AddShelvesPlaceholder" = "Afegeix prestatges a la teva llista tocant la icona +";
+"AddTagsPlaceholder" = "Afegeix etiquetes a la teva llista tocant la icona +";
+"AddAuthorsPlaceholder" = "Afegeix autors a la teva llista tocant la icona +";
+"Last10Days" = "Darrers 10 dies";
+"NoProgressData" = "Sense progrés de lectura";
+"ReadingProgressWidgetDescription" = "Estadístiques de lectura";
+
+"ThisMonth" = "Aquest mes";
+"PurchasedBooks" = "Compres";
+"PurchaseDate" = "Data de compra";
+"PurchaseDatePlaceholder" = "Introdueix la data de compra...";
+"SortByPurchaseDate" = "Per data de compra";
+"BooksRead" = "Llibres llegits";
+
+"FromToPages" = "De la pàgina %@ a la pàgina %@";
+"FromToPercentage" = "De %@ a %@";
+"InsertProgress" = "Introdueix el progrés";
+"ProgressOverMaxPages" = "Has superat el nombre de pàgines del llibre.";
+"AddProgressPlaceholder" = "Afegeix el progrés de lectura tocant la icona +";
+"LeaveAReview" = "DDeixa una ressenya";
+
+"BookCoverNotFoundError" = "No s'ha trobat la coberta en línia";
+"HideWishlistFromReadList" = "Amaga la llista de desitjos de les llistes de lectura";
+"AuthorListNameSurname" = "Autors (nom)";
+"AuthorListSurnameName" = "Autors (cognom)";
+"SortByAuthorNameSurname" = "Per autor (nom)";
+"SortByAuthorSurnameName" = "Per autor (cognom)";
+"PHYSICALBOOK" = "Llibre imprès";
+"EBOOK" = "Llibre digital";
+"AUDIOBOOK" = "Audiollibre";
+"BookType" = "Tipus de llibre";
+
+"SelectLocation" = "Selecciona la ubicació...";
+"SelectBookcase" = "Selecciona una llibreria...";
+"SelectShelf" = "Seleccioneu prestatge...";
+"SelectBookcaseShelfError" = "Abans de continuar, heu de seleccionar una prestatgeria i una prestatgeria.";
+"SelectShelfError" = "Abans de continuar, heu de seleccionar un prestatge.";
+"OneTime" = "una vegada";
+"Default" = "Per defecte";
+
+"Done" = "Fet";
+"Options" = "Opcions";
+"You have read %lld pages today" = "Heu llegit %lld pàgines avui";
+
+"Author" = "Autora";
+"Book" = "Llibre";
+"Books" = "Llibres";
+"Name" = "Nom";
+"Surname" = "Cognom";
+"Category" = "Categoria";
+"Cover" = "Tapa";
+"BookState" = "Estat";
+"Tag" = "Etiqueta";
+"GoogleBooksUrl" = "URL de Google Books";
+"GoodreadsUrl" = "Goodreads URL";
+"RemoteImageUrl" = "URL d’imatge remota";
+"ThumbnailRemoteImageUrl" = "URL de la imatge remota a la miniatura";
+"AddBookDescription" = "Afegiu un llibre nou a la vostra biblioteca o llista de desitjos";
+"BookAdded" = "El llibre es va inserir correctament.";
+"AuthorAdded" = "L’autor es va inserir correctament.";
+"CategoryAdded" = "La categoria es va inserir correctament.";
+"SeriesAdded" = "La sèrie es va inserir correctament.";
+"TagAdded" = "L’etiqueta es va inserir correctament.";
+"TitleQuestion" = "Quin és el títol?";
+"GoogleIdQuestion" = "Què és l'identificador de Google Books?";
+"GoogleBooksUrlQuestion" = "Què és l'URL de Google Books?";
+"GoodreadQuestion" = "Quin és l'identificador de Goodreads?";
+"GoodreadsUrlQuestion" = "Què és l’URL de Goodreads?";
+"DescriptionQuestion" = "Quina és la descripció?";
+"Isbn10Question" = "Què és el ISBN 10?";
+"Isbn13Question" = "Què és el ISBN 13?";
+"AuthorsQuestion" = "Què són els autors?";
+"CategoriesQuestion" = "Quines són les categories?";
+"LanguageQuestion" = "Quin és el llenguatge?";
+"PublisherQuestion" = "Què és l'editorial?";
+"ReleaseDateQuestion" = "Quina és la data de llançament?";
+"PurchaseDateQuestion" = "Quina és la data de compra?";
+"ImageQuestion" = "Quina és la portada?";
+"RemoteImageUrlQuestion" = "Què és l'URL de la coberta remota?";
+"ThumbnailRemoteImageUrlQuestion" = "Què és l’URL de la coberta de la miniatura remota?";
+"RatingQuestion" = "Quina és la qualificació?";
+"PagesQuestion" = "Quin és el número de la pàgina?";
+"BookStateQuestion" = "Voleu afegir el llibre a la vostra biblioteca o llista de desitjos?";
+"ReadingStatusQuestion" = "Quin és l'estat de lectura?";
+"BookTypeQuestion" = "Quin és el tipus de llibre?";
+"PersonalCommentQuestion" = "Quin és el comentari personal?";
+"TagsQuestion" = "Quines són les etiquetes?";
+"SeriesQuestion" = "Què és la sèrie?";
+"QuotesQuestion" = "Quines són les cotitzacions?";
+"QuoteQuestion" = "Quina és la cita?";
+"BookQuestion" = "Què és el llibre?";
+"PageQuestion" = "Quina és la pàgina actual?";
+"NameQuestion" = "Com es diu?";
+"SurnameQuestion" = "Quin és el cognom?";
+"SearchQuestion" = "Quin llibre t'agradaria cercar?";
+"PercentageQuestion" = "Quin és el percentatge?";
+"RatingOutOfRangeError" = "La qualificació està fora de gamma.El valor ha d’estar entre 0 i 5.";
+"NegativePagesError" = "El número de pàgina d’inserció és negatiu.El valor ha de ser major o igual a 0.";
+"BookDoesNotExistError" = "El llibre que intenteu editar no existeix a la vostra biblioteca";
+"InvalidParameterError" = "Paràmetre no vàlid";
+"MissingBookPagesError" = "El llibre que heu seleccionat no té el nombre de pàgines.Primer heu d’afegir el nombre de pàgines totals per poder continuar";
+"ValueHigherThanBookPagesError" = "Il valore inserito è Maggiore del numero di pagine del libro";
+"ItemAlreadyExistError" = "L’element que intenteu inserir ja existeix";
+"Editing" = "Editar";
+"EditBook" = "Editar llibre";
+"EditBookDescription" = "Editeu els detalls d’un llibre determinat";
+"BookEdited" = "El llibre s'ha actualitzat amb èxit";
+"AddQuoteDescription" = "Afegiu un pressupost al vostre llibre";
+"QuoteAdded" = "La cotització s'ha inserit";
+"UpdateBookProgress" = "Actualitzeu el progrés de lectura";
+"UpdateBookProgressDescription" = "Actualitzeu el progrés de lectura dels vostres llibres introduint la pàgina o percentatge de finalització";
+"Update" = "Actualitzar";
+"Page" = "Pàgina";
+"Percentage" = "Percentatge";
+"PercentageProgress" = "Actualitzar el progrés de la lectura en percentatge?";
+"CurrentPageLessThanCurrentPageConfirmation" = "La pàgina inserida és inferior a la pàgina emmagatzemada anterior. Voleu continuar?";
+"ReadingProgressUpdated" = "Actualització de progrés de lectura";
+"GetBookQuotes" = "Obteniu pressupostos del llibre";
+"GetBookQuotesDescription" = "Obteniu pressupostos d’un llibre específic";
+"QuotesRetrieved" = "Cites recuperades";
+"AddAuthorDescription" = "Afegiu un nou autor";
+"AddCategory" = "Afegiu la categoria";
+"AddCategoryDescription" = "Afegiu una nova categoria";
+"AddTag" = "Afegiu l'etiqueta";
+"AddTagDescription" = "Afegiu una nova etiqueta";
+"AddSeriesDescription" = "Afegiu una nova sèrie";
+
+"Add book ${title} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "Afegeix llibre ${title} by ${authors} amb ${categories}, ${tags}, ${series} i ${image}";
+"Edit the ${book} info" = "Edita la informació ${book}";
+"Add quote ${quote} to ${book}" = "Afegeix cita ${quote} a ${book}";
+"Insert the current page ${page} for ${book}" = "Inseriu la pàgina actual ${page} per a ${book}";
+"Insert the percentage progress ${percentage} for ${book}" = "Inseriu el percentatge de finalització ${percentage} per a ${book}";
+"Get quotes for ${book}" = "Obteniu pressupostos per ${book}";
+"Get reading progress for ${book}" = "Obteniu el progrés de la lectura per ${book}";
+"Add ${name} category" = "Afegiu la categoria ${name}";
+"Add ${name} series" = "Afegiu ${name} sèrie";
+"Add ${name} tag" = "Afegiu ${name} etiqueta";
+"Search ${search}" = "Cerca ${search}";
+
+"SharedWithYou" = "Compartit amb tu";
+"SharedWithYouMessage" = "Aquí veuràs els llibres que s'han compartit amb tu a l'aplicació Missatges";
+
+"ReadingChallenge" = "Repte de lectura";
+"ReadingChallenges" = "Reptes de lectura";
+"AddReadingChallenge" = "Afegeix un repte de lectura";
+"AddReadingChallengeDescription" = "Introdueix quants llibres t'agradaria llegir aquest any.";
+"InsertReadingGoal" = "Quants llibres t'agradaria llegir?";
+"ReadingGoal" = "Objectiu de lectura";
+"Suggestions" = "Suggeriments";
+"Suggestion" = "Suggeriment";
+"ReadingChallengeNoBooksLastYear" = "No hi ha cap repte de lectura establert per a l'últim any i no heu llegit cap llibre. Podeu començar per establir l'objectiu de llegir un llibre al mes.";
+"ReadingChallengeNoReadingChallengesLastYear" = "No hi ha cap repte de lectura establert per a l'any passat. Podeu començar fixant el mateix nombre de llibres llegits l'any passat.";
+"ReadingChallengeNoReachedLastYearReadingChallenges" = "L'any passat vau plantejar un repte de lectura de llibres %d però no vau assolir el vostre objectiu. Torna-ho a provar aquest any.";
+"ReadingChallengeAlreadyExistError" = "Ja hi ha un repte de lectura per a aquest any. Vols sobreescriure'l?";
+"ReadingChallengeDeleteMessage" = "Vols suprimir el repte de lectura?";
+"ReadingStreak" = "Ratxa de lectura";
+"CurrentReadingStreak" = "Esteu en la ratxa de lectura més llarga, que ha començat %@ i s'està executant durant %d dies.";
+"PastReadingStreak" = "La vostra ratxa de lectura més llarga és %@ i ha durat %d dies.";
+"ReadPagesAverageDaily" = "El nombre mitjà de pàgines llegides per dia és de %.1f.";
+"ReadPagesAverageMonthly" = "El nombre mitjà de pàgines llegides per mes és de %.1f.";
+"ReadBooksAverageMonthly" = "El nombre mitjà de llibres llegits al mes és de %.1f.";
+"Day" = "Dia";
+"Month" = "Mes";
+"LongestBooksRead" = "Llibres de lectura més llarga";
+"MostReadAuthors" = "Autors més llegits";
+"MostReadCategories" = "Categories més llegides";
+"ReadingChallengeWidgetDescription" = "Lectura del progrés del repte de l'any en curs";
+"NoChallenge" = "Sense repte";
+"Apply" = "Aplicar";
+
+"GetReadingChallenge" = "Aconsegueix el repte de lectura";
+
+"ThisWeek" = "Aquesta setmana";
+"LastWeek" = "La setmana passada";
+"ThisMonth" = "Aquest mes";
+"LastMonth" = "El mes passat";
+"ThisYear" = "Aquest any";
+"LastYear" = "L’any passat";
+"%lld books read" = "%lld llibres llegits";
+"%lld book read" = "%lld llibre llegit";
+
+"AddTagsToBooks" = "Assigna etiquetes als llibres";
+"AddSeriesToBooks" = "Assigna una sèrie als llibres";
+"AddCategoriesToBooks" = "Assigna categories als llibres";
+"AddAuthorsToBooks" = "Assigna autors als llibres";
+"AddQuoteToBook" = "Afegeix un pressupost al llibre";
+"AddTagsToBooksDescription" = "Assigna una o més etiquetes als llibres seleccionats";
+"AddSeriesToBooksDescription" = "Assigna sèries als llibres seleccionats";
+"AddCategoriesToBooksDescription" = "Assigna una o més categories als llibres seleccionats";
+"AddAuthorsToBooksDescription" = "Assigna un o més autors als llibres seleccionats";
+"BooksQuestion" = "Quins són els llibres";
+"OneOrMoreItemDoNotExist" = "Un o més elements no existeixen";
+"BooksUpdated" = "Llibres actualitzats";
+
+"GetCurrentReadingBook" = "Aconsegueix que es llegeix el llibre";
+"GetCurrentReadingBookDescription" = "Aconsegueix el llibre que estàs llegint ara";
+"OpenLibrary" = "Obrir la biblioteca";
+"OpenLibraryDescription" = "Obre la llista de llibres de la biblioteca";
+"OpenWishlist" = "Obre la llista de desitjos";
+"OpenWishlistDescription" = "Obre la llista de desitjos";
+"OpenCurrentReadingBook" = "Llibre obert per llegir";
+"OpenCurrentReadingBookDescription" = "Obre el llibre que esteu llegint actualment";
+"Open" = "Obrir";
+
+"OpenBook" = "Llibre obert";
+"OpenBookDescription" = "Obre els detalls del llibre seleccionat";
+"Open ${book}" = "Obre ${book}";
+"BarcodeScan" = "Escaneja el codi de barres";
+"BarcodeScanDescription" = "Cerca un llibre escanejant el codi de barres";
+"SearchOnlineDescription" = "Cerca un llibre nou";
+
+"Start" = "Començar";
+"Next" = "Pròxim";
+"Previous" = "Anterior";
+
+"Manage" = "Gestionar";
+
+"OtherApps" = "Altres aplicacions";

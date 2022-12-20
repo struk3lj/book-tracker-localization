@@ -1,0 +1,518 @@
+/* 
+  Localizable.strings
+  library
+
+  Created by Simone Montalto on 27/10/2019.
+  Copyright © 2019 Simone Montalto. All rights reserved.
+*/
+
+"Library" = "Bibliothèque";
+"Search" = "Rechercher";
+"SearchOnline" = "Rechercher en ligne";
+"Scan" = "Scanner un code-barres";
+"Wishlist" = "Liste de souhaits";
+"Settings" = "Réglages";
+"Filters" = "Filtres";
+"Filter" = "Filtrer";
+"Reset" = "Réinitialiser";
+"Select" = "Sélectionner";
+"Save" = "Enregistrer";
+"PagesNumber" = "%i pages";
+"NotAvailable" = "N/D";
+"ManageBook" = "Ajouter ou supprimer le livre de la bibliothèque ou de la liste de souhaits";
+"AddToLibrary" = "Ajouter à la bibliothèque";
+"RemoveFromLibrary" = "Supprimer de la bibliothèque";
+"AddToWishlist" = "Ajouter à la liste de souhaits";
+"RemoveFromWishlist" = "Supprimer de la liste de souhaits";
+"MarkAsRead" = "Marquer comme lu";
+"MarkAsUnread" = "Marquer comme non lu";
+"InsertComment" = "Écrire un commentaire…";
+"PersonalComment" = "Commentaire personnel";
+"Amazon" = "Ouvrir dans Amazon";
+"GoogleBook" = "Ouvrir dans Google Livres";
+"Goodreads" = "Ouvrir dans Goodreads";
+"ScanBarCode" = "Scannez le code-barres pour récupérer les informations du livre";
+"AddBookPlaceholder" = "Ajoutez des livres à votre liste en appuyant sur l'icône +";
+"SearchBookPlaceholder" = "Rechercher des livres par titre, auteur ou ISBN";
+
+"TitlePlaceholder" = "Saisir le titre…";
+"AuthorsPlaceholder" = "Saisir les auteurs…";
+"CategoriesPlaceholder" = "Saisir les catégories…";
+"PublisherPlaceholder" = "Saisir l'éditeur…";
+"IsbnPlaceholder" = "Saisir le code ISBN…";
+"DescriptionPlaceholder" = "Saisir une description…";
+"PagesPlaceholder" = "Saisir le nombre de pages…";
+"ReleasePlaceholder" = "Saisir la date de publication…";
+
+"ManageTags" = "Gérer les mots-clés";
+"Import" = "Importer";
+"Export" = "Exporter";
+"ExportToCsv" = "CSV";
+"ExportToPdf" = "PDF";
+"SendEmail" = "Envoyer un email";
+"About" = "À propos";
+"DeleteAll" = "Supprimer tout";
+"ReduceHaptic" = "Réduire les vibrations";
+"EmailSubject" = "Support %@. Version : %@ - %@";
+
+"InfoMessage1" = "%@ est une application pour répertorier facilement les livres que vous avez achetés et que vous souhaitez lire. Vous pouvez ajouter un livre en le recherchant par nom, par son auteur, son code ISBN, en scannant le code-barres ou en entrant manuellement tous les détails.\n\nSi iCloud est activé sur votre appareil, la bibliothèque sera automatiquement synchronisée avec tous vos appareils iOS.\n\nPour tout doute ou demande, vous pouvez envoyer un email via la section « Réglages ».";
+
+"Attention" = "Attention";
+"Ok" = "Ok";
+"Cancel" = "Annuler";
+"Insert" = "Insérer manuellement";
+"Add" = "Ajouter";
+"AddNew" = "Ajouter un nouveau";
+"Tags" = "Mots-clés";
+"Categories" = "Catégories ";
+"Authors" = "Auteurs";
+"ReadingStatus" = "Statut de lecture";
+
+"DeleteAllTitle" = "Êtes-vous sûr(e) ?";
+"DeleteAllMessage" = "Cette action est irréversible et tous vos livres seront supprimés de votre bibliothèque";
+"DeleteAllAction" = "Tout supprimer";
+
+"IsbnNotFoundMessage" = "Aucun livre trouvé avec ce code-barres. Voulez-vous réessayer avec une recherche plus large ? Le livre trouvé peut ne pas correspondre à votre code-barres";
+
+"CannotShowEmailComposerTitle" = "Impossible d'envoyer un email";
+"CannotShowEmailComposerMessage" = "Pour envoyer l'email, vous devez configurer l'application sur votre appareil";
+
+"InsertOrSearchTitle" = "Ajouter un livre";
+
+"CameraPermissionNotGranted" = "Impossible d'accéder à l'appareil photo car vous n'avez pas autorisé l'accès. Allez dans les réglages de l'application et autorisez l'accès à l'appareil photo.";
+"OpenSettings" = "Ouvrir les Réglages";
+
+"SaveBookError" = "Une erreur s'est produite lors de l'enregistrement. Veuillez réessayer.";
+
+"BarCodeBookNotFound" = "Aucun livre trouvé en recherchant le code-barres. Veuillez rechercher le livre manuellement.";
+"BarCodeBookSetupNotCompleted" = "Votre appareil ne prend pas en charge l'analyse de code d'un élément. Veuillez rechercher le livre manuellement.";
+
+"SortTitle" = "Trier la liste";
+"SortByName" = "Par titre";
+"SortByInsertionDate" = "Par date d'ajout";
+"SortByAuthor" = "Par auteur";
+"SortByPublicationDate" = "Par date de publication";
+
+"SendEmailTitle" = "Quelle application souhaitez-vous utiliser pour envoyer l'email ?";
+"Mail" = "Mail";
+"Gmail" = "Gmail";
+"Spark" = "Spark";
+
+"OnboardingTitle" = "Nouveautés de Book Track";
+"Onboarding1Title" = "Gérez votre bibliothèque";
+"Onboarding1Message" = "Gardez une trace des livres que vous avez achetés et consultez-les facilement";
+"Onboarding2Title" = "Gérez votre liste de souhaits";
+"Onboarding2Message" = "Vous souhaitez acheter un nouveau livre ? Ajoutez-le à votre liste de souhaits";
+"Onboarding3Title" = "Ajoutez de nouveaux livres";
+"Onboarding3Message" = "Ajoutez de nouveaux livres en les cherchant en ligne, en scannant les code-barres ou manuellement";
+"Onboarding4Title" = "Bibliothèque enregistrée sur iCloud";
+"Onboarding4Message" = "Votre bibliothèque et votre liste de souhaits sont automatiquement enregistrées sur votre compte iCloud si iCloud et iCloud Drive sont activés";
+"Onboarding5Title" = "Importer la bibliothèque";
+"Onboarding5Message" = "Importez vos livres à partir d'autres applications et services pour ne pas avoir à recommencer à créer votre bibliothèque";
+"Onboarding6Title" = "Sauvegarde du devis";
+"Onboarding6Message" = "Enregistrez vos citations préférées au même endroit pour pouvoir les relire plus tard";
+"Onboarding7Title" = "Défis de lecture";
+"Onboarding7Message" = "Consultez les statistiques de bibliothèque et de lecture et placez-les directement sur votre écran d'accueil avec de superbes widgets";
+"Continue" = "Continuer";
+"TryForFree" = "Essayer gratuitement";
+
+"ReadFilterAll" = "Tout afficher";
+"ReadFilterRead" = "Afficher les livres lus";
+"ReadFilterNotRead" = "Afficher les livres non lus";
+"ReadFilterDnf" = "Afficher les livres non terminés";
+"Read" = "Lire";
+"ResetFilter" = "Réinitialiser le filtre";
+
+"SearchInLibraryPlaceholder" = "Rechercher dans la bibliothèque";
+"SearchInWishListPlaceholder" = "Rechercher dans la liste de souhaits";
+"SearchOnlinePlaceholder" = "Rechercher en ligne";
+"NotFoundInLibrary" = "Aucun livre trouvé dans votre bibliothèque";
+"NotFoundInWishList" = "Aucun livre trouvé dans votre liste de souhaits";
+
+"ExportTitle" = "Dans quel format voulez-vous exporter vos livres ?";
+
+"ImportErrorTitle" = "Erreur";
+"ImportErrorMessage" = "Impossible d'importer vos livres. Vous devez sélectionner un fichier CSV. Si vous n'êtes pas sûr du format du fichier, essayez d'exporter un fichier CSV depuis Book Track et vérifiez le nom des colonnes.";
+
+"ImportSuccessTitle" = "Félicitations";
+"ImportSuccessMessage" = "Vous avez bien importé vos livres dans Book Track.\n\nTotal : %@\nImportés : %@\nErreurs : %@";
+
+"WaitLoading" = "Veuillez patienter…";
+
+"EditImage" = "Modifier l'image";
+"ScanImage" = "Scanner une image";
+"SelectImage" = "Sélectionner une image";
+
+"SelectIcon" = "Icône de l’application";
+"AppIconDefault" = "Par défaut";
+"AppIconBlack" = "Noir";
+"AppIconWhite" = "Blanc";
+"AppIconLaunched" = "Lancée";
+"AppIconBigSur" = "Big Sur";
+"AppIconClassic" = "Classique";
+"AppIconBigSurClassic" = "Big Sur - Classique";
+
+"Ascending" = "Ascendant";
+"Descending" = "Descendant";
+
+"OtherFromSeries" = "De la même série";
+"Series" = "Séries";
+"SortBySeries" = "Par séries";
+
+"Title" = "Titre";
+"Isbn" = "ISBN ";
+"Isbn10" = "ISBN 10";
+"Isbn13" = "ISBN 13";
+"GoogleId" = "ID Google";
+"Goodread" = "ID Goodreads";
+"AuthorList" = "Auteurs";
+"Publisher" = "Éditeur ";
+"ReleaseDate" = "Date de publication";
+"Description" = "Description";
+"Rating" = "Note";
+"Pages" = "Pages ";
+
+"SelectHeaderPlaceholder" = "Sélectionner l'en-tête";
+
+"SelectFile" = "Sélectionner un fichier";
+"File" = "Fichier";
+"LeaveATip" = "Faire un don";
+"LeaveATipDescription" = "Bonjour, je suis Simone, et je développe Book Track. J'espère que vous aimez l'application et qu'elle vous aide à garder votre bibliothèque organisée.\nSi vous souhaitez soutenir davantage mon travail et m'aider à gérer les coûts de fonctionnement, vous pouvez le faire avec un don. Merci beaucoup ❤️";
+"ThanksgivingTitle" = "Achat terminé";
+"ThanksgivingMessage" = "Merci pour votre aide ❤️";
+"ErrorOccurred" = "Une erreur s'est produite. Réessayez plus tard";
+"CannotMakePurchase" = "Votre appareil n'est pas activé pour l'achat";
+
+"Reddit" = "Communauté Book Track";
+"Website" = "Site";
+"Twitter" = "Twitter";
+"Facebook" = "Facebook";
+
+"Statistics" = "Statistiques";
+"ReadBooksYear" = "Livres lus par an";
+"ReadBooksMonth" = "Livres lus par mois";
+"ReadFilterReading" = "Afficher les livres en cours de lecture";
+"dnf" = "Pas terminé";
+"to-read" = "À lire";
+"reading" = "En cours";
+"read" = "Lu";
+"StartedDate" = "Commencés";
+"FinishedDate" = "Terminés";
+"StartedDatePlaceholder" = "Date de début de lecture…";
+"FinishedDatePlaceholder" = "Date de fin de lecture…";
+"NoBooksInSection" = "Aucun livre dans cette section";
+"Quotes" = "Extraits";
+"AddQuote" = "Ajouter un extrait";
+"TakePicture" = "Prendre une nouvelle photo";
+"OCR" = "OCR";
+"ShowLess" = "Afficher moins";
+"ShowMore" = "Afficher plus";
+"ManageSeries" = "Gérer les séries";
+"SentWithBookTrack" = "Envoyé avec Book Track - Gestionnaire de bibliothèque";
+"LoanedOut" = "Prêts";
+"Delete" = "Supprimer";
+"Edit" = "Modifier";
+"InsertName" = "Entrer un prénom…";
+"InsertSurname" = "Entrer un nom…";
+"AddContact" = "Ajouter un contact";
+"InsertNameSurname" = "Entrer un nom et un prénom";
+"AddContactPlaceholder" = "Ajoutez des contacts à votre liste en cliquant sur l'icône +";
+"LoanedBook" = "Livre prêté";
+"EndLoan" = "Terminer le prêt";
+"LoanStart" = "Commencer le prêt";
+"SortByRating" = "Par note";
+"SortByReadingDate" = "Par date de lecture";
+"ManageAuthors" = "Gérer les auteurs";
+"ManageCategories" = "Gérer les catégories";
+"AddAuthor" = "Ajouter un auteur";
+
+"%lld of %lld" = "%lld sur %lld";
+"ProgressWidgetTitle" = "Progression de lecture";
+"SelectBookWidgetDescription" = "Sélectionner le livre";
+"PagesRead" = "Pages lues";
+"DeleteBookMessage" = "Cette action est irréversible et votre livre sera supprimé de votre bibliothèque";
+"AddTags" = "Ajouter des mots-clés";
+"AddSeries" = "Ajouter une série";
+"AddAuthors" = "Ajouter des auteurs";
+"AddCategories" = "Ajouter des catégories";
+"MoveToWishlist" = "Déplacer dans la liste de souhaits";
+"MoveToLibrary" = "Déplacer dans la bibliothèque";
+"Dismiss" = "Ne plus afficher";
+
+"FillMissignFields" = "Mettre à jour le livre en ligne";
+"MergeOrOverwriteTitle" = "Mettre à jour le livre en ligne";
+"MergeOrOverwriteMessage" = "Voulez-vous écraser ou remplir les champs de livre manquants?";
+"Overwrite" = "Écraser";
+"Merge" = "Remplir manquant";
+
+"StandardLayout" = "Standard";
+"CompactLayout" = "Compacte";
+"LittleCardLayout" = "Couverture (petite)";
+"BigCardLayout" = "Couverture (grande)";
+"ListLayout" = "Liste";
+
+"InsertionDate" = "Date de l'ajout";
+"ReadingDate" = "Date de lecture";
+
+"Advanced" = "Avancé";
+"AdvancedSearch" = "Recherche avancée";
+"AdvancedSortTitle" = "Tri avancé";
+"Priority" = "Priorité";
+"LanguagePlaceholder" = "Entrer une langue…";
+"Language" = "Langue";
+"AddRule" = "Ajouter une règle";
+"OfNPagesRead" = "sur %lld pages lu";
+"ReadProgress" = "Progression de lecture";
+"Year" = "Année";
+"InsertBookPages" = "Vous devez définir le nombre de pages du livre pour pouvoir suivre votre progression de lecture";
+"SelectContact" = "Sélectionner un contact";
+"AddQuotesPlaceholder" = "Ajoutez des extraits à votre liste en utilisant l'icône +";
+"AddBook" = "Ajouter un livre";
+"Share" = "Partager";
+"Quote" = "Extrait";
+"Dark" = "Sombre";
+"Light" = "Clair";
+
+"InAppDescription" = "Hello Book Track a été créé par Simone 👨🏻‍💻 avec l'aide de Carmen 👩🏻‍🎨 ! En devenant un utilisateur Book Track Pro avec un seul achat intégré, vous pouvez nous aider à travailler sur l'application et recevoir de nouvelles fonctionnalités!";
+"TipJarDescription" = "Hello Book Track a été créé par Simone 👨🏻‍💻 avec l'aide de Carmen 👩🏻‍🎨 ! En devenant un utilisateur Book Track Supporter, vous pouvez nous aider à travailler sur l'application et recevoir de nouvelles fonctionnalités!";
+"InAppFeature1" = "Nombre illimité de livres";
+"InAppFeature2" = "Changer l'icône de l'application";
+"InAppFeature3" = "Importez et exportez votre bibliothèque";
+"InAppFeature4" = "Soutenir un développeur indépendant";
+"InAppFooter" = "Book Track nécessite deux achats différents pour la version iOS (iPhone et iPad) et macOS. L'application respecte votre vie privée et ne collecte aucune donnée vous concernant. Toutes les fonctionnalités sont exécutées sur votre appareil et les données sont synchronisées via votre compte iCloud.";
+"InAppPurchase" = "Acheter %@";
+"InAppRestore" = "Restaurer l'achat";
+"NoPurchaseToRestore" = "Il n'y a pas d'achats intégrés à restaurer avec votre compte";
+"PremiumTitle" = "Book Track Pro";
+"PremiumSubtitle" = "Débloquez toutes les fonctionnalités";
+"Duplicate" = "Dupliquer";
+
+"ImportSelectFileTitle" = "Book Track prend en charge l'importation de bibliothèques au format CSV. Sélectionnez un fichier CSV pour importer votre bibliothèque depuis une autre application ou un autre service dans Book Track. Si vous souhaitez importer la bibliothèque de Goodreads, vous pouvez exporter le fichier CSV à partir du site Web de Goodreads.";
+"ImportAssociateFieldsTitle" = "Book Track essaie automatiquement d'associer les noms de colonne du fichier CSV aux champs de l'application. Si un champ reste vide, sélectionnez-le pour pouvoir l'associer manuellement. Si certains champs ne sont pas disponibles dans le fichier CSV, ils peuvent rester vides. Afin de procéder à l'importation, au moins le champ titre doit être sélectionné.";
+
+"Location" = "Emplacement";
+"Bookcase" = "Bibliothèque";
+"Shelf" = "Étagère";
+"AddLocation" = "Ajouter un emplacement";
+"AddSeriesPlaceholder" = "Ajoutez des séries à votre liste en appuyant sur l'icône +";
+"AddCategoriesPlaceholder" = "Ajoutez des catégories à votre liste en appuyant sur l'icône +";
+"AddLocationsPlaceholder" = "Ajoutez des emplacements à votre liste en appuyant sur l'icône +";
+"AddBookcasesPlaceholder" = "Ajoutez des bibliothèques à votre liste en appuyant sur l'icône +";
+"AddShelvesPlaceholder" = "Ajoutez des étagères à votre liste en appuyant sur l'icône +";
+"AddTagsPlaceholder" = "Ajoutez des balises à votre liste en appuyant sur l'icône +";
+"AddAuthorsPlaceholder" = "Ajoutez des auteurs à votre liste en appuyant sur l'icône +";
+"Last10Days" = "Les 10 derniers jours";
+"NoProgressData" = "Aucune progression de la lecture";
+"ReadingProgressWidgetDescription" = "Lecture des statistiques";
+
+"ThisMonth" = "Mois en cours";
+"PurchasedBooks" = "Achats";
+"PurchaseDate" = "Date d'achat";
+"PurchaseDatePlaceholder" = "Insérez la date d'achat...";
+"SortByPurchaseDate" = "Par date d'achat";
+"BooksRead" = "Livres lus";
+
+"FromToPages" = "De la page %@ à la page %@";
+"FromToPercentage" = "De %@ à %@";
+"InsertProgress" = "Insérer la progression";
+"ProgressOverMaxPages" = "Vous avez dépassé le nombre de pages du livre";
+"AddProgressPlaceholder" = "Ajoutez la progression de la lecture en appuyant sur l'icône +";
+"LeaveAReview" = "Laisser un commentaire";
+
+"BookCoverNotFoundError" = "Couverture introuvable en ligne";
+"HideWishlistFromReadList" = "Masquer la liste de souhaits des listes de lecture";
+"AuthorListNameSurname" = "Auteurs (nom)";
+"AuthorListSurnameName" = "Auteurs (nom de famille)";
+"SortByAuthorNameSurname" = "Par auteur (nom)";
+"SortByAuthorSurnameName" = "Par auteur (nom de famille)";
+"PHYSICALBOOK" = "Livre papier";
+"EBOOK" = "Livre numérique";
+"AUDIOBOOK" = "Livre audio";
+"BookType" = "Type de livre";
+
+"SelectLocation" = "Sélectionnez l'emplacement...";
+"SelectBookcase" = "Sélectionnez la bibliothèque...";
+"SelectShelf" = "Sélectionnez l'étagère...";
+"SelectBookcaseShelfError" = "Vous devez sélectionner une bibliothèque et une étagère avant de continuer.";
+"SelectShelfError" = "Vous devez sélectionner une étagère avant de continuer.";
+"OneTime" = "une fois";
+"Default" = "Par défaut";
+
+"Done" = "OK";
+"Options" = "Choix";
+"You have read %lld pages today" = "Vous avez lu %lld pages aujourd'hui";
+
+"Author" = "Auteur";
+"Book" = "Livre";
+"Books" = "Livres";
+"Name" = "Nom";
+"Surname" = "Nom de famille";
+"Category" = "Catégorie";
+"Cover" = "Couverture";
+"BookState" = "État";
+"Tag" = "Étiquette";
+"GoogleBooksUrl" = "URL des livres Google";
+"GoodreadsUrl" = "URL Goodreads";
+"RemoteImageUrl" = "URL d'image distante";
+"ThumbnailRemoteImageUrl" = "URL de l'image distante miniature";
+"AddBookDescription" = "Ajoutez un nouveau livre à votre bibliothèque ou liste de souhaits";
+"BookAdded" = "Le livre a été correctement inséré.";
+"AuthorAdded" = "L'auteur a été correctement inséré.";
+"CategoryAdded" = "La catégorie a été insérée correctement.";
+"SeriesAdded" = "La série a été insérée correctement.";
+"TagAdded" = "La balise a été insérée correctement.";
+"TitleQuestion" = "Quel est le titre?";
+"GoogleIdQuestion" = "Quel est l'ID de Google Books?";
+"GoogleBooksUrlQuestion" = "Quelle est l'URL des livres Google?";
+"GoodreadQuestion" = "Quel est l'ID Goodreads?";
+"GoodreadsUrlQuestion" = "Quelle est l'URL Goodreads?";
+"DescriptionQuestion" = "Quelle est la description?";
+"Isbn10Question" = "Qu'est-ce que l'ISBN 10?";
+"Isbn13Question" = "Qu'est-ce que l'ISBN 13?";
+"AuthorsQuestion" = "Quels sont les auteurs?";
+"CategoriesQuestion" = "Quelles sont les catégories?";
+"LanguageQuestion" = "Quelle est la langue?";
+"PublisherQuestion" = "Qu'est-ce que l'éditeur?";
+"ReleaseDateQuestion" = "Quelle est la date de sortie?";
+"PurchaseDateQuestion" = "Quelle est la date d'achat?";
+"ImageQuestion" = "Quelle est la couverture?";
+"RemoteImageUrlQuestion" = "Quelle est l'URL de la couverture distante?";
+"ThumbnailRemoteImageUrlQuestion" = "Quelle est l'URL de la couverture miniature à distance?";
+"RatingQuestion" = "Quelle est la note?";
+"PagesQuestion" = "Quel est le numéro de page?";
+"BookStateQuestion" = "Voulez-vous ajouter le livre à votre bibliothèque ou liste de souhaits?";
+"ReadingStatusQuestion" = "Quel est le statut de lecture?";
+"BookTypeQuestion" = "Quel est le type de livre?";
+"PersonalCommentQuestion" = "Quel est le commentaire personnel?";
+"TagsQuestion" = "Quelles sont les balises?";
+"SeriesQuestion" = "Quelle est la série?";
+"QuotesQuestion" = "Quelles sont les citations?";
+"QuoteQuestion" = "Quelle est la citation?";
+"BookQuestion" = "Quel est le livre?";
+"PageQuestion" = "Quelle est la page actuelle?";
+"NameQuestion" = "Quel est le nom?";
+"SurnameQuestion" = "Quel est le nom de famille?";
+"SearchQuestion" = "Quel livre souhaitez-vous rechercher?";
+"PercentageQuestion" = "Quel est le pourcentage?";
+"RatingOutOfRangeError" = "La notation est hors de portée.La valeur doit être comprise entre 0 et 5.";
+"NegativePagesError" = "Le numéro de page d'insertion est négatif.La valeur doit être supérieure ou égale à 0.";
+"BookDoesNotExistError" = "Le livre que vous essayez de modifier n'existe pas dans votre bibliothèque";
+"InvalidParameterError" = "Paramètre invalide";
+"MissingBookPagesError" = "Le livre que vous avez sélectionné n'a pas le nombre de pages.Vous devez d'abord ajouter le nombre de pages totales pour pouvoir continuer";
+"ValueHigherThanBookPagesError" = "Il Valore Inserito è Maggiore del Numero di Pagine del Libro";
+"ItemAlreadyExistError" = "L'article que vous essayez d'insérer existe déjà";
+"Editing" = "Modification";
+"EditBook" = "Modifier le livre";
+"EditBookDescription" = "Modifiez les détails d'un livre donné";
+"BookEdited" = "Le livre a été mis à jour avec succès";
+"AddQuoteDescription" = "Ajoutez un devis à votre livre";
+"QuoteAdded" = "La citation a été insérée";
+"UpdateBookProgress" = "Mettre à jour les progrès de la lecture";
+"UpdateBookProgressDescription" = "Mettez à jour les progrès de la lecture de vos livres en entrant sur la page ou au pourcentage de l'achèvement";
+"Update" = "Mise à jour";
+"Page" = "Page";
+"Percentage" = "Pourcentage";
+"PercentageProgress" = "Mettre à jour la progression de la lecture en pourcentage?";
+"CurrentPageLessThanCurrentPageConfirmation" = "La page insérée est inférieure à la page stockée précédente. Voulez-vous continuer?";
+"ReadingProgressUpdated" = "Progrès de la lecture mise à jour";
+"GetBookQuotes" = "Obtenez des citations de livres";
+"GetBookQuotesDescription" = "Obtenez des citations d'un livre spécifique";
+"QuotesRetrieved" = "Citations récupérées";
+"AddAuthorDescription" = "Ajouter un nouvel auteur";
+"AddCategory" = "Ajouter une catégorie";
+"AddCategoryDescription" = "Ajouter une nouvelle catégorie";
+"AddTag" = "Ajouter une étiquette";
+"AddTagDescription" = "Ajouter une nouvelle balise";
+"AddSeriesDescription" = "Ajouter une nouvelle série";
+
+"Add book ${title} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "Ajouter le livre ${title} par ${authors} avec ${categories}, ${tags}, ${series} et ${image}";
+"Edit the ${book} info" = "Modifier les informations ${book}";
+"Add quote ${quote} to ${book}" = "Ajouter le devis ${quote} à ${book}";
+"Insert the current page ${page} for ${book}" = "Insérez la page actuelle ${page} pour ${book}";
+"Insert the percentage progress ${percentage} for ${book}" = "Insérez le pourcentage de l'achèvement ${percentage} pour ${book}";
+"Get quotes for ${book}" = "Obtenez des devis pour ${book}";
+"Get reading progress for ${book}" = "Obtenez des progrès de lecture pour ${book}";
+"Add ${name} category" = "Ajouter une catégorie ${name}";
+"Add ${name} series" = "Ajouter des séries ${name}";
+"Add ${name} tag" = "Ajouter ${name} tag";
+"Search ${search}" = "Chercher ${search}";
+
+"SharedWithYou" = "Partagé avec vous";
+"SharedWithYouMessage" = "Vous verrez ici les livres qui ont été partagés avec vous dans l'application Messages";
+
+"ReadingChallenge" = "Défi lecture";
+"ReadingChallenges" = "Défis de lecture";
+"AddReadingChallenge" = "Ajouter un défi de lecture";
+"AddReadingChallengeDescription" = "IEntrez combien de livres vous aimeriez lire cette année.";
+"InsertReadingGoal" = "Combien de livres aimeriez-vous lire?";
+"ReadingGoal" = "Objectif de lecture";
+"Suggestions" = "Suggestions";
+"Suggestion" = "Suggestion";
+"ReadingChallengeNoBooksLastYear" = "Aucun défi de lecture n'a été défini pour l'année écoulée et vous n'avez lu aucun livre. Vous pouvez commencer par vous fixer comme objectif de lire un livre par mois.";
+"ReadingChallengeNoReadingChallengesLastYear" = "Aucun défi de lecture n'a été défini pour l'année dernière. Vous pouvez commencer par définir le même nombre de livres lus l'année dernière.";
+"ReadingChallengeNoReachedLastYearReadingChallenges" = "L'année dernière, vous avez défini un défi de lecture de %d livres mais n'avez pas atteint votre objectif. Réessayez cette année.";
+"ReadingChallengeAlreadyExistError" = "Il y a déjà un défi de lecture pour cette année. Voulez-vous le remplacer ?";
+"ReadingChallengeDeleteMessage" = "Voulez-vous supprimer le défi de lecture ?";
+"ReadingStreak" = "Série de lecture";
+"CurrentReadingStreak" = "Vous êtes dans la plus longue séquence de lecture, qui a commencé %@ et dure %d jours.";
+"PastReadingStreak" = "Votre séquence de lecture la plus longue est %@ et a duré %d jours.";
+"ReadPagesAverageDaily" = "Le nombre moyen de pages lues par jour est de %.1f.";
+"ReadPagesAverageMonthly" = "Le nombre moyen de pages lues par mois est de %.1f.";
+"ReadBooksAverageMonthly" = "Le nombre moyen de livres lus par mois est de %.1f.";
+"Day" = "Jour";
+"Month" = "Mois";
+"LongestBooksRead" = "Livres lus plus longtemps";
+"MostReadAuthors" = "Auteurs les plus lus";
+"MostReadCategories" = "Catégories les plus lues";
+"ReadingChallengeWidgetDescription" = "Avancement du défi de lecture pour l'année en cours";
+"NoChallenge" = "Pas de défi";
+"Apply" = "Appliquer";
+
+"GetReadingChallenge" = "Obtenez le défi de lecture";
+
+"ThisWeek" = "Cette semaine";
+"LastWeek" = "La semaine dernière";
+"ThisMonth" = "Ce mois-ci";
+"LastMonth" = "Le mois dernier";
+"ThisYear" = "Cette année";
+"LastYear" = "L’année dernière";
+"%lld books read" = "%lld livres lus";
+"%lld book read" = "%lld livre lu";
+
+"AddTagsToBooks" = "Attribuer des balises aux livres";
+"AddSeriesToBooks" = "Attribuer des séries aux livres";
+"AddCategoriesToBooks" = "Attribuer des catégories aux livres";
+"AddAuthorsToBooks" = "Attribuer des auteurs aux livres";
+"AddQuoteToBook" = "Ajouter un devis au livre";
+"AddTagsToBooksDescription" = "Attribuer une ou plusieurs balises aux livres sélectionnés";
+"AddSeriesToBooksDescription" = "Attribuer la série aux livres sélectionnés";
+"AddCategoriesToBooksDescription" = "Attribuer une ou plusieurs catégories aux livres sélectionnés";
+"AddAuthorsToBooksDescription" = "Attribuer un ou plusieurs auteurs aux livres sélectionnés";
+"BooksQuestion" = "Quels sont les livres";
+"OneOrMoreItemDoNotExist" = "Un ou plusieurs éléments n'existent pas";
+"BooksUpdated" = "Livres mis à jour";
+
+"GetCurrentReadingBook" = "Obtenir le livre en cours de lecture";
+"GetCurrentReadingBookDescription" = "Obtenir le livre que vous lisez actuellement";
+"OpenLibrary" = "Ouvrir la bibliothèque";
+"OpenLibraryDescription" = "Ouvrir la liste des livres de la bibliothèque";
+"OpenWishlist" = "Ouvrir la liste de souhaits";
+"OpenWishlistDescription" = "Ouvrir la liste de souhaits";
+"OpenCurrentReadingBook" = "Ouvrir le livre pour le lire";
+"OpenCurrentReadingBookDescription" = "Ouvrir le livre que vous lisez actuellement";
+"Open" = "Ouvrir";
+
+"OpenBook" = "Ouvrir le livre";
+"OpenBookDescription" = "Ouvrir les détails du livre sélectionné";
+"Open ${book}" = "Ouvrir ${book}";
+"BarcodeScan" = "Scanner le code-barres";
+"BarcodeScanDescription" = "Rechercher un livre en scannant le code-barres";
+"SearchOnlineDescription" = "Rechercher un nouveau livre";
+
+"Start" = "Commencer";
+"Next" = "Prochain";
+"Previous" = "Précédent";
+
+"Manage" = "Faire en sorte";
+
+"OtherApps" = "Autres applications";

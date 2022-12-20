@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  library
+
+  Created by Simone Montalto on 27/10/2019.
+  Copyright © 2019 Simone Montalto. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Book Track";
+"NSCameraUsageDescription" = "Kitabınızın barkodunun taranabilmesi için kameraya erişim yetkisi gerekmektedir.";
+"NSPhotoLibraryUsageDescription" = "Kitaplarınıza eklenecek resimlerin yüklenmesi için fotoğraf arşivinize erişim yetkisi gerekmektedir.";
+
+"UIApplicationShortcutItemTitle.Search" = "Ara";
+"UIApplicationShortcutItemTitle.Scan" = "Barkodu Tara";
+"UIApplicationShortcutItemTitle.ManualInsert" = "Manuel Ekle";

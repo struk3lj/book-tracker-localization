@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  library
+
+  Created by Simone Montalto on 27/10/2019.
+  Copyright © 2019 Simone Montalto. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Book Track";
+"NSCameraUsageDescription" = "L'application a besoin d'accéder à votre appareil photo pour scanner le code-barres.";
+"NSPhotoLibraryUsageDescription" = "L'application a besoin d'accéder à vos photos pour ajouter les images à vos livres.";
+
+"UIApplicationShortcutItemTitle.Search" = "Rechercher";
+"UIApplicationShortcutItemTitle.Scan" = "Scanner un code-barres";
+"UIApplicationShortcutItemTitle.ManualInsert" = "Insérer manuellement";

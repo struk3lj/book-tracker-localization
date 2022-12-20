@@ -1,0 +1,24 @@
+/* 
+  AppShortcuts.strings
+  BookTrackApp
+
+  Created by Simone Montalto on 14/09/22.
+  Copyright © 2022 Simone Montalto. All rights reserved.
+*/
+
+"Update reading progress in ${applicationName}" = "Actualitzeu el progrés de lectura a ${applicationName}";
+"Insert reading progress in ${applicationName}" = "Inseriu el progrés de lectura a ${applicationName}";
+"Add new quote in ${applicationName}" = "Afegiu una cotització nova a ${applicationName}";
+"Save new quote in ${applicationName}" = "Desa la cotització nova a ${applicationName}";
+"Get reading challenge in ${applicationName}" = "Aconsegueix el repte de lectura a ${applicationName}";
+"Show reading challenge in ${applicationName}" = "Mostra el repte de lectura a ${applicationName}";
+
+"Open current reading book in ${applicationName}" = "Obre el llibre per llegir-lo a ${applicationName}";
+"Show current reading book in ${applicationName}" = "Mostra el llibre que s'està llegint a ${applicationName}";
+"Open Library in ${applicationName}" = "Obre la biblioteca a ${applicationName}";
+"Show Library book in ${applicationName}" = "Mostra la biblioteca a ${applicationName}";
+"Open Wishlist in ${applicationName}" = "Obre la llista de desitjos a ${applicationName}";
+"Show Wishlist book in ${applicationName}" = "Mostra la llista de desitjos a ${applicationName}";
+
+"Scan Barcode in ${applicationName}" = "Escaneja el codi de barres a ${applicationName}";
+"Search Online in ${applicationName}" = "Cerca en línia a ${applicationName}";

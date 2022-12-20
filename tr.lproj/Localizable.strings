@@ -1,0 +1,518 @@
+/* 
+  Localizable.strings
+  library
+
+  Created by Simone Montalto on 27/10/2019.
+  Copyright © 2019 Simone Montalto. All rights reserved.
+*/
+
+"Library" = "Kütüphane";
+"Search" = "Ara";
+"SearchOnline" = "Çevrimiçi ara";
+"Scan" = "Barkodu tara";
+"Wishlist" = "İstek listesi";
+"Settings" = "Ayarlar";
+"Filters" = "Filtreler";
+"Filter" = "Filtre";
+"Reset" = "Sıfırla";
+"Select" = "Seç";
+"Save" = "Kaydet";
+"PagesNumber" = "%i sayfa";
+"NotAvailable" = "n/a";
+"ManageBook" = "Kütüphaneye veya istek listesine kitap ekle veya çıkar";
+"AddToLibrary" = "Kütüphaneye ekle";
+"RemoveFromLibrary" = "Kütüphaneden çıkar";
+"AddToWishlist" = "İstek listesine ekle";
+"RemoveFromWishlist" = "İstek listesinden çıkar";
+"MarkAsRead" = "Okundu olarak işaretle";
+"MarkAsUnread" = "Okunmadı olarak işaretle";
+"InsertComment" = "Bir yorum ekle...";
+"PersonalComment" = "Kişisel yorum";
+"Amazon" = "Amazon'ta aç";
+"GoogleBook" = "Google Book'ta aç";
+"Goodreads" = "Goodreads'te aç";
+"ScanBarCode" = "Kitap bilgisini almak için lütfen barkodu taratın";
+"AddBookPlaceholder" = "Listenize kitap eklemek için + simgesine dokunun";
+"SearchBookPlaceholder" = "Kitapları isim, yazar veya ISBN ile arayın";
+
+"TitlePlaceholder" = "Başlık ekle...";
+"AuthorsPlaceholder" = "Yazar ekle...";
+"CategoriesPlaceholder" = "Kategori ekle...";
+"PublisherPlaceholder" = "Yayımcı ekle...";
+"IsbnPlaceholder" = "ISBN kodunu ekle...";
+"DescriptionPlaceholder" = "Açıklama ekle...";
+"PagesPlaceholder" = "Sayfa sayısı ekle...";
+"ReleasePlaceholder" = "Yayımlanma tarihi ekle...";
+
+"ManageTags" = "Etiketleri yönet";
+"Import" = "İçe Aktar";
+"Export" = "Dışa Aktar";
+"ExportToCsv" = "CSV";
+"ExportToPdf" = "PDF";
+"SendEmail" = "Bir E-posta Gönder";
+"About" = "Hakkında";
+"DeleteAll" = "Tüm kitapları sil";
+"ReduceHaptic" = "Titreşimleri azalt";
+"EmailSubject" = "Support %@. Version: %@ - %@";
+
+"InfoMessage1" = "%@ satın aldığınız ve okumak istediğiniz kitapları kolaylıkla takip edebilmeniz amacıyla geliştirilmiş bir uygulamadır. Kitapları isim, yazar veya isbn ile aratarak, barkodunu taratarak veya tüm detayları manuel olarak girerek ekleyebilirsiniz.\n\nEğer cihazınızda iCloud açık ise, kütüphane tüm iOS cihazlarınız ile otomatik olarak senkronize olacaktır.\n\nHerhangi bir sorunuz veya talebiniz olması durumunda, \"Ayarlar\" sayfası üzerinden e-posta gönderebilirsiniz.";
+
+"Attention" = "Dikkat";
+"Ok" = "Tamam";
+"Cancel" = "İptal";
+"Insert" = "Manuel olarak ekle";
+"Add" = "Ekle";
+"AddNew" = "Yeni ekle";
+"Tags" = "Etiketler";
+"Categories" = "Kategoriler";
+"Authors" = "Yazarlar";
+"ReadingStatus" = "Okuma durumu";
+
+"DeleteAllTitle" = "Emin misiniz?";
+"DeleteAllMessage" = "Bu eylem geri alınamaz ve tüm kitaplarınız kütüphanenizden silinecektir";
+"DeleteAllAction" = "Tümünü sil";
+
+"IsbnNotFoundMessage" = "Barkod araması sonucunda herhangi bir kitap bulunamadı. Daha az kesinlik ile bir arama denemek ister misiniz? Bulunan kitap barkodunuz ile eşleşmeyebilir";
+
+"CannotShowEmailComposerTitle" = "E-posta gönderilemiyor";
+"CannotShowEmailComposerMessage" = "E-posta gönderebilmek için cihazınızda uygulamayı ayarlamanız gerekmektedir";
+
+"InsertOrSearchTitle" = "Bir kitap ekle";
+
+"CameraPermissionNotGranted" = "İzin vermediğinizden kameraya erişim sağlanamıyor. Lütfen uygulamanın ayarlarına gidin ve kameraya erişim izni verin.";
+"OpenSettings" = "Ayarları Aç";
+
+"SaveBookError" = "Kitabı kaydederken bir hata oluştu. Lütfen tekrar deneyin.";
+
+"BarCodeBookNotFound" = "Barkod araması sonucunda herhangi bir kitap bulunamadı. Lütfen kitabı manuel olarak ekleyin.";
+"BarCodeBookSetupNotCompleted" = "Cihazınız kod taramayı desteklemiyor. Lütfen kitabı manuel olarak arayın.";
+
+"SortTitle" = "Listeyi sırala";
+"SortByName" = "Başlığa göre";
+"SortByInsertionDate" = "Ekleme tarihine göre";
+"SortByAuthor" = "Yazara göre";
+"SortByPublicationDate" = "Yayımlanma tarihine göre";
+
+"SendEmailTitle" = "E-posta göndermek için hangi uygulamayı kullanmak istiyorsunuz?";
+"Mail" = "Mail";
+"Gmail" = "Gmail";
+"Spark" = "Spark";
+
+"OnboardingTitle" = "Book Track'taki Yenilikler";
+"Onboarding1Title" = "Kütüphanenizi yönetin";
+"Onboarding1Message" = "Satın aldığınız kitapları takip edin ve onlara kolaylıkla başvurun";
+"Onboarding2Title" = "İstek listenizi yönetin";
+"Onboarding2Message" = "Yeni bir kitap mı almak istiyorsunuz? İstek listenize ekleyin";
+"Onboarding3Title" = "Yeni kitaplar ekleyin";
+"Onboarding3Message" = "Yeni kitapları çevrimiçi aratarak, barkodunu taratarak veya manuel olarak ekleyin";
+"Onboarding4Title" = "Buluta kaydedilen kütüphane";
+"Onboarding4Message" = "Hem iCloud hem de iCloud Drive etkinse, kitaplığınız ve istek listeniz otomatik olarak iCloud hesabınıza kaydedilir";
+"Onboarding5Title" = "Kitaplığı içe aktar";
+"Onboarding5Message" = "Kitaplığınızı baştan oluşturmaya başlamak zorunda kalmamak için kitaplarınızı diğer uygulamalardan ve hizmetlerden içe aktarın";
+"Onboarding6Title" = "Fiyat teklifi kaydetme";
+"Onboarding6Message" = "Daha sonra tekrar okuyabilmek için favori alıntılarınızı tek bir yere kaydedin";
+"Onboarding7Title" = "Okuma zorlukları";
+"Onboarding7Message" = "Kitaplığı ve okuma istatistiklerini görün ve muhteşem widget'larla bunları doğrudan Ana ekranınıza yerleştirin";
+"Continue" = "Devam";
+"TryForFree" = "Ücretsiz deneyin";
+
+"ReadFilterAll" = "Tümünü göster";
+"ReadFilterRead" = "Okunmuş kitapları göster";
+"ReadFilterNotRead" = "Okunmamış kitapları göster";
+"ReadFilterDnf" = "Bitmemiş kitapları göster";
+"Read" = "Okundu";
+"ResetFilter" = "Filtreyi sıfırla";
+
+"SearchInLibraryPlaceholder" = "Kütüphanede ara";
+"SearchInWishListPlaceholder" = "İstek listesinde ara";
+"SearchOnlinePlaceholder" = "Çevrimiçi ara";
+"NotFoundInLibrary" = "Kütüphanenizde kitap bulunamadı";
+"NotFoundInWishList" = "İstek listenizde kitap bulunamadı";
+
+"ExportTitle" = "Kitaplarınızı hangi formatta dışarı aktarmak istiyorsunuz?";
+
+"ImportErrorTitle" = "Hata";
+"ImportErrorMessage" = "Kitaplarınız içeri aktarılamıyor. Bir csv dosyası seçmelisiniz. Eğer dosyanın formatından emin değilseniz, Book Track'tan bir csv dosyasını dışarı aktarmayı deneyin ve sütun isimlerini kontrol edin.";
+
+"ImportSuccessTitle" = "Tebrikler";
+"ImportSuccessMessage" = "Kitaplarınızı Book Track'a başarıyla eklediniz.\n\nToplam: %@\nBaşarılı: %@\nHatalar: %@";
+
+"WaitLoading" = "Lütfen bekleyin...";
+
+"EditImage" = "Resmi düzenle";
+"ScanImage" = "Resmi tara";
+"SelectImage" = "Resmi seç";
+
+"SelectIcon" = "Uygulama simgesi seçin";
+"AppIconDefault" = "Varsayılan";
+"AppIconBlack" = "Siyah";
+"AppIconWhite" = "Beyaz";
+"AppIconLaunched" = "Ayarlandı";
+"AppIconBigSur" = "Big Sur";
+"AppIconClassic" = "Klasik";
+"AppIconBigSurClassic" = "Big Sur - Klasik";
+
+"Ascending" = "Artan";
+"Descending" = "Azalan";
+
+"OtherFromSeries" = "Serideki diğerleri";
+"Series" = "Seriler";
+"SortBySeries" = "Serilere göre";
+
+"Title" = "Başlık";
+"Isbn" = "ISBN";
+"Isbn10" = "ISBN 10";
+"Isbn13" = "ISBN 13";
+"GoogleId" = "Google Id";
+"Goodread" = "Goodreads Id";
+"AuthorList" = "Yazarlar";
+"Publisher" = "Yayımcı";
+"ReleaseDate" = "Yayım Tarihi";
+"Description" = "Açıklama";
+"Rating" = "Puan";
+"Pages" = "Sayfa Sayısı";
+
+"SelectHeaderPlaceholder" = "Başlık seç";
+
+"SelectFile" = "Dosya seç";
+"File" = "Dosya";
+"LeaveATip" = "Bahşiş ver";
+"LeaveATipDescription" = "Merhaba, ben Simone, Book Track'in geliştiricisi. Umarım uygulamayı beğeniyorsunuzdur ve kütüphanenizi düzenli tutmanıza yardımcı oluyordur.\n\nEğer çalışmalarıma daha fazla destek vermek ve işletme maliyetlerimi yönetmeme yardımcı olmak isterseniz, bunu bir bağış ile yapabilirsiniz. Çok teşekkürler ❤️";
+"ThanksgivingTitle" = "Satın alma tamamlandı";
+"ThanksgivingMessage" = "Desteğiniz için teşekkürler ❤️";
+"ErrorOccurred" = "Bir sorun oluştu. Daha sonra deneyin";
+"CannotMakePurchase" = "Cihazınız satın alma yapmaya açık değil";
+
+"Reddit" = "Book Track topluluğu";
+"Website" = "İnternet Sitesi";
+"Twitter" = "Twitter";
+"Facebook" = "Facebook";
+
+"Statistics" = "İstatistikler";
+"ReadBooksYear" = "Okunan kitaplar / yıl";
+"ReadBooksMonth" = "Okunan kitaplar / ay";
+"ReadFilterReading" = "Şu anda okunan kitapları göster";
+"dnf" = "Bitmedi";
+"to-read" = "Okunacak";
+"reading" = "Okunuyor";
+"read" = "Okundu";
+"StartedDate" = "Başlangıç";
+"FinishedDate" = "Bitiş";
+"StartedDatePlaceholder" = "Okumaya başlama tarihi...";
+"FinishedDatePlaceholder" = "Okuma bitiş tarihi...";
+"NoBooksInSection" = "Bu bölümde hiç kitap yok";
+"Quotes" = "Alıntılar";
+"AddQuote" = "Alıntı ekle";
+"TakePicture" = "Yeni bir fotoğraf çek";
+"OCR" = "OCR";
+"ShowLess" = "Daha az göster";
+"ShowMore" = "Daha fazla göster";
+"ManageSeries" = "Serileri yönet";
+"SentWithBookTrack" = "Book Track - Kütüphane Yöneticisi ile gönderildi";
+"LoanedOut" = "Ödünç verilen";
+"Delete" = "Delete";
+"Edit" = "Düzenle";
+"InsertName" = "Ad Ekle...";
+"InsertSurname" = "Soyad Ekle...";
+"AddContact" = "Kişi ekle";
+"InsertNameSurname" = "Ad ve soyad girin";
+"AddContactPlaceholder" = "Listenize kişi eklemek için + simgesine dokunun";
+"LoanedBook" = "Ödünç verilen kitap";
+"EndLoan" = "Ödünç vermeyi bitir";
+"LoanStart" = "Ödünç verme tarihi";
+"SortByRating" = "Puana göre";
+"SortByReadingDate" = "Tarihe göre";
+"ManageAuthors" = "Yazarları yönet";
+"ManageCategories" = "Kategorileri yönet";
+"AddAuthor" = "Yazar ekle";
+
+"%lld of %lld" = "%lld adetten %lld";
+"ProgressWidgetTitle" = "Okuma ilerlemesi";
+"SelectBookWidgetDescription" = "Kitap seç";
+"PagesRead" = "Okunan sayfa";
+"DeleteBookMessage" = "Bu işlem geri alınamaz ve kitabınız kütüphaneden silinecektir";
+"AddTags" = "Etiket ekle";
+"AddSeries" = "Seri ekle";
+"AddAuthors" = "Yazar ekle";
+"AddCategories" = "Kategori ekle";
+"MoveToWishlist" = "İstek listesine taşı";
+"MoveToLibrary" = "Kütüphaneye taşı";
+"Dismiss" = "Kapat";
+
+"FillMissignFields" = "Kitabı çevrimiçi güncelleyin";
+"MergeOrOverwriteTitle" = "Kitabı çevrimiçi güncelleyin";
+"MergeOrOverwriteMessage" = "Eksik kitap alanlarının üzerine yazmak mı yoksa doldurmak mı istiyorsunuz?";
+"Overwrite" = "Üzerine yazın";
+"Merge" = "Eksik doldurun";
+
+"StandardLayout" = "Standart";
+"CompactLayout" = "Kompakt";
+"LittleCardLayout" = "Kapak (küçük)";
+"BigCardLayout" = "Kapak (büyük)";
+"ListLayout" = "Liste";
+
+"InsertionDate" = "Ekleme tarihi";
+"ReadingDate" = "Okuma tarihi";
+
+"Advanced" = "Gelişmiş";
+"AdvancedSearch" = "Gelişmiş arama";
+"AdvancedSortTitle" = "Gelişmiş sıralama";
+"Priority" = "Öncelik";
+"LanguagePlaceholder" = "Lisan ekle...";
+"Language" = "Lisan";
+"AddRule" = "Kural ekle";
+"OfNPagesRead" = "/ %lld sayfa okundu";
+"ReadProgress" = "Okuma ilerlemesi";
+"Year" = "Yıl";
+"InsertBookPages" = "Okuma ilerlemenizi yönetmek için kitabın sayfa sayısını ayarlamanız gerekmektedir.";
+"SelectContact" = "Kişi seç";
+"AddQuotesPlaceholder" = "Listenize alıntı eklemek için + ikonuna dokunun";
+"AddBook" = "Kitap ekle";
+"Share" = "Paylaş";
+"Quote" = "Alıntı";
+"Dark" = "Koyu";
+"Light" = "Açık";
+
+"InAppDescription" = "Merhaba 👋 Kitap Parçası Simone 👨🏻‍💻 tarafından Carmen 👩🏻‍🎨 yardımıyla oluşturuldu! Tek bir uygulama içi satın alma ile Book Track Pro kullanıcısı olarak, uygulama üzerinde çalışmamıza ve yeni özellikler almamıza yardımcı olabilirsiniz!";
+"TipJarDescription" = "Merhaba 👋 Kitap Parçası Simone 👨🏻‍💻 tarafından Carmen 👩🏻‍🎨 yardımıyla oluşturuldu! Book Track Supporter kullanıcısı olarak, uygulama üzerinde çalışmamıza ve yeni özellikler almamıza yardımcı olabilirsiniz!";
+"InAppFeature1" = "Sınırsız sayıda kitap";
+"InAppFeature2" = "Uygulama simgesini değiştirin";
+"InAppFeature3" = "Kitaplığınızı içe ve dışa aktarın";
+"InAppFeature4" = "Bir bağımsız geliştiriciyi destekleyin";
+"InAppFooter" = "Book Track, iOS (iPhone ve iPad) ve macOS sürümü için iki farklı satın alma gerektirir. Uygulama gizliliğinize saygı duyar ve hakkınızda herhangi bir veri toplamaz. Tüm özellikler cihazınızda gerçekleştirilir ve veriler iCloud hesabınız üzerinden senkronize edilir.";
+"InAppPurchase" = "Satın al %@";
+"InAppRestore" = "Satın almayı geri yükle";
+"NoPurchaseToRestore" = "Hesabınızla geri yüklenecek uygulama içi satın alma yok";
+"PremiumTitle" = "Book Track Pro";
+"PremiumSubtitle" = "Tüm özelliklerin kilidini aç";
+"Duplicate" = "Çiftleme";
+
+"ImportSelectFileTitle" = "Book Track, kitaplıkların CSV formatında içe aktarılmasını destekler. Kitaplığınızı başka bir uygulamadan veya hizmetten Book Track'e aktarmak için bir CSV dosyası seçin. Kitaplığı Goodreads'ten içe aktarmak istiyorsanız, CSV dosyasını Goodreads web sitesinden dışa aktarabilirsiniz.";
+"ImportAssociateFieldsTitle" = "Book Track, CSV dosyasının sütun adlarını uygulamadaki alanlarla otomatik olarak ilişkilendirmeye çalışır. Herhangi bir alan boş kalırsa, manuel olarak ilişkilendirebilmek için seçin. Bazı alanlar CSV dosyasında mevcut değilse, boş kalabilirler. İçe aktarma işlemine devam etmek için en az başlık alanı seçilmelidir.";
+
+"Location" = "Konum";
+"Bookcase" = "Kitaplık";
+"Shelf" = "Raf";
+"AddLocation" = "Konum ekle";
+"AddSeriesPlaceholder" = "+ simgesine dokunarak dizileri listenize ekleyin";
+"AddCategoriesPlaceholder" = "+ simgesine dokunarak listenize kategori ekleyin";
+"AddLocationsPlaceholder" = "+ simgesine dokunarak listenize konum ekleyin";
+"AddBookcasesPlaceholder" = "+ simgesine dokunarak listenize kitaplıklar ekleyin";
+"AddShelvesPlaceholder" = "+ simgesine dokunarak listenize raflar ekleyin";
+"AddTagsPlaceholder" = "+ simgesine dokunarak listenize etiket ekleyin";
+"AddAuthorsPlaceholder" = "+ simgesine dokunarak yazarları listenize ekleyin";
+"Last10Days" = "Son 10 gün";
+"NoProgressData" = "Okuma ilerlemesi yok";
+"ReadingProgressWidgetDescription" = "İstatistik okuma";
+
+"ThisMonth" = "Geçerli ay";
+"PurchasedBooks" = "Satın Alınanlar";
+"PurchaseDate" = "Satın alma tarihi";
+"PurchaseDatePlaceholder" = "Satın alma tarihini girin...";
+"SortByPurchaseDate" = "Satın alma tarihine göre";
+"BooksRead" = "Kitaplar okundu";
+
+"FromToPages" = "%@ sayfasından %@ sayfasına";
+"FromToPercentage" = "%@ ile %@ arasında";
+"InsertProgress" = "İlerleme ekle";
+"ProgressOverMaxPages" = "Kitaptaki sayfa sayısını aştınız";
+"AddProgressPlaceholder" = "+ simgesine dokunarak okuma ilerlemesini ekleyin";
+"LeaveAReview" = "İnceleme bırak";
+
+"BookCoverNotFoundError" = "Kapak internette bulunamadı";
+"HideWishlistFromReadList" = "Masquer la liste de souhaits des listes de lecture";
+"AuthorListNameSurname" = "Yazarlar (isim)";
+"AuthorListSurnameName" = "Yazarlar (soyadı)";
+"SortByAuthorNameSurname" = "Yazara göre (isim)";
+"SortByAuthorSurnameName" = "Yazara göre (soyadı)";
+"PHYSICALBOOK" = "Kağıt kitap";
+"EBOOK" = "Dijital kitap";
+"AUDIOBOOK" = "Sesli Kitap";
+"BookType" = "Kitap türü";
+
+"SelectLocation" = "Konum seçin...";
+"SelectBookcase" = "Kitaplık seçin...";
+"SelectShelf" = "Raf seç...";
+"SelectBookcaseShelfError" = "Devam etmek için önce bir kitaplık ve bir raf seçmelisiniz.";
+"SelectShelfError" = "Devam etmek için önce bir raf seçmelisiniz.";
+"OneTime" = "bir kez";
+"Default" = "Varsayılan";
+
+"Done" = "Bitti";
+"Options" = "Seçenekler";
+"You have read %lld pages today" = "Bugün %lld sayfa okudunuz";
+
+"Author" = "Yazar";
+"Book" = "Kitap";
+"Books" = "Kitabın";
+"Name" = "İsim";
+"Surname" = "Soyadı";
+"Category" = "Kategori";
+"Cover" = "Örtmek";
+"BookState" = "Durum";
+"Tag" = "Etiket";
+"GoogleBooksUrl" = "Google Kitaplar URL'si";
+"GoodreadsUrl" = "Goodreads URL";
+"RemoteImageUrl" = "Uzak Görüntü URL";
+"ThumbnailRemoteImageUrl" = "Küçük resim uzak görüntü URL";
+"AddBookDescription" = "Kütüphanenize veya istek listenize yeni bir kitap ekleyin";
+"BookAdded" = "Kitap doğru yerleştirildi.";
+"AuthorAdded" = "Yazar doğru yerleştirildi.";
+"CategoryAdded" = "Kategori doğru eklendi.";
+"SeriesAdded" = "Dizi doğru şekilde yerleştirildi.";
+"TagAdded" = "Etiket doğru eklendi.";
+"TitleQuestion" = "Başlık nedir?";
+"GoogleIdQuestion" = "Google Books Kimliği nedir?";
+"GoogleBooksUrlQuestion" = "Google Books URL'si nedir?";
+"GoodreadQuestion" = "Goodreads kimliği nedir?";
+"GoodreadsUrlQuestion" = "Goodreads URL'si nedir?";
+"DescriptionQuestion" = "Açıklama nedir?";
+"Isbn10Question" = "ISBN 10 nedir?";
+"Isbn13Question" = "ISBN 13 nedir?";
+"AuthorsQuestion" = "Yazarlar nelerdir?";
+"CategoriesQuestion" = "Kategoriler nelerdir?";
+"LanguageQuestion" = "Dil nedir?";
+"PublisherQuestion" = "Yayıncı nedir?";
+"ReleaseDateQuestion" = "Çıkış tarihi nedir?";
+"PurchaseDateQuestion" = "Satın alma tarihi nedir?";
+"ImageQuestion" = "Kapak nedir?";
+"RemoteImageUrlQuestion" = "Uzak kapak URL'si nedir?";
+"ThumbnailRemoteImageUrlQuestion" = "Uzaktan küçük kapak URL'si nedir?";
+"RatingQuestion" = "Derecelendirme nedir?";
+"PagesQuestion" = "Sayfa numarası nedir?";
+"BookStateQuestion" = "Kitabı kütüphanenize veya istek listenize eklemek ister misiniz?";
+"ReadingStatusQuestion" = "Okuma durumu nedir?";
+"BookTypeQuestion" = "Kitap türü nedir?";
+"PersonalCommentQuestion" = "Kişisel yorum nedir?";
+"TagsQuestion" = "Etiketler nelerdir?";
+"SeriesQuestion" = "Dizi nedir?";
+"QuotesQuestion" = "Alıntılar nelerdir?";
+"QuoteQuestion" = "Alıntı nedir?";
+"BookQuestion" = "Kitap nedir?";
+"PageQuestion" = "Mevcut sayfa nedir?";
+"NameQuestion" = "İsim ne?";
+"SurnameQuestion" = "Soyadı nedir?";
+"SearchQuestion" = "Hangi kitabı aramak istersiniz?";
+"PercentageQuestion" = "Yüzde nedir?";
+"RatingOutOfRangeError" = "Derecelendirme menzil dışında.Değer 0 ile 5 arasında olmalıdır.";
+"NegativePagesError" = "Ekleme sayfa numarası negatiftir.Değer 0'a eşit veya eşit olmalıdır.";
+"BookDoesNotExistError" = "Düzenlemeye çalıştığınız kitap kütüphanenizde mevcut değil";
+"InvalidParameterError" = "Geçersiz parametre";
+"MissingBookPagesError" = "Seçtiğiniz kitapta sayfa sayısı yoktur.Önce devam edebilmek için toplam sayfa sayısını eklemelisiniz";
+"ValueHigherThanBookPagesError" = "IL Valore inserito è Maggiore del Numero di Page Del Libro";
+"ItemAlreadyExistError" = "Eklemeye çalıştığınız öğe zaten var";
+"Editing" = "Düzenleme";
+"EditBook" = "Düzenleme Kitabı";
+"EditBookDescription" = "Belirli bir kitabın ayrıntılarını düzenleyin";
+"BookEdited" = "Kitap başarıyla güncellendi";
+"AddQuoteDescription" = "Kitabınıza bir teklif ekleyin";
+"QuoteAdded" = "Alıntı eklendi";
+"UpdateBookProgress" = "Okuma İlerlemesini Güncelle";
+"UpdateBookProgressDescription" = "Sayfayı veya tamamlanma yüzdesini girerek kitaplarınızın okuma ilerlemesini güncelleyin";
+"Update" = "Güncelleme";
+"Page" = "Sayfa";
+"Percentage" = "Yüzde";
+"PercentageProgress" = "Yüzde olarak okuma ilerlemesini güncelleyin?";
+"CurrentPageLessThanCurrentPageConfirmation" = "Eklenen sayfa önceki depolanan sayfadan daha düşüktür. Devam etmek mi istiyorsunuz?";
+"ReadingProgressUpdated" = "Güncellenmiş okuma ilerlemesi";
+"GetBookQuotes" = "Kitap Tırnaklar Alın";
+"GetBookQuotesDescription" = "Belirli bir kitaptan alıntılar alın";
+"QuotesRetrieved" = "Alınan Alıntılar";
+"AddAuthorDescription" = "Yeni bir yazar ekle";
+"AddCategory" = "Kategori ekle";
+"AddCategoryDescription" = "Yeni bir kategori ekleyin";
+"AddTag" = "Etiket ekle";
+"AddTagDescription" = "Yeni bir etiket ekle";
+"AddSeriesDescription" = "Yeni bir dizi ekle";
+
+"Add book ${title} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "${title} tarafından ${authors} tarafından ${categories}, ${tags}, ${series} ve ${image} ile kitabı ekleyin.";
+"Edit the ${book} info" = "${book} bilgilerini düzenleyin";
+"Add quote ${quote} to ${book}" = "${quote} 'a teklif ekleyin ${book}";
+"Insert the current page ${page} for ${book}" = "${book} için geçerli sayfa ${page} ekleyin";
+"Insert the percentage progress ${percentage} for ${book}" = "${book} için ${percentage} tamamlama yüzdesini ekleyin";
+"Get quotes for ${book}" = "${book} için teklif alın";
+"Get reading progress for ${book}" = "${book} için okuma ilerlemesini alın";
+"Add ${name} category" = "${name} kategorisi ekle";
+"Add ${name} series" = "${name} serisi ekle";
+"Add ${name} tag" = "${name} etiketi ekle";
+"Search ${search}" = "Arama ${search}";
+
+"SharedWithYou" = "Sizinle Paylaşıldı";
+"SharedWithYouMessage" = "Burada Mesajlar uygulamasında sizinle paylaşılan kitapları göreceksiniz";
+
+"ReadingChallenge" = "Okuma meydan okuması";
+"ReadingChallenges" = "Okuma zorlukları";
+"AddReadingChallenge" = "Okuma sorgulaması ekle";
+"AddReadingChallengeDescription" = "Bu yıl kaç kitap okumak istediğinizi girin.";
+"InsertReadingGoal" = "Kaç kitap okumak istersin?";
+"ReadingGoal" = "Hedef okuma";
+"Suggestions" = "Öneriler";
+"Suggestion" = "Öneri";
+"ReadingChallengeNoBooksLastYear" = "Geçen yıl için belirlenmiş okuma yarışması yok ve hiç kitap okumadınız. Ayda bir kitap okuma hedefi belirleyerek başlayabilirsiniz.";
+"ReadingChallengeNoReadingChallengesLastYear" = "Geçen yıl için ayarlanmış okuma yarışması yok. Geçen yıl aynı sayıda kitap okuyarak başlayabilirsiniz.";
+"ReadingChallengeNoReachedLastYearReadingChallenges" = "Geçen yıl, %d kitap okuma yarışması belirlediniz ancak hedefinize ulaşamadınız. Bu yıl yeniden deneyin.";
+"ReadingChallengeAlreadyExistError" = "Bu yıl için zaten bir okuma yarışması var. Üzerine yazmak istiyor musunuz?";
+"ReadingChallengeDeleteMessage" = "Okuma meydan okumasını silmek ister misiniz?";
+"ReadingStreak" = "Okuma dizisi";
+"CurrentReadingStreak" = "%@ ile başlayan ve %d gün boyunca devam eden en uzun okuma serisindesiniz.";
+"PastReadingStreak" = "En uzun okuma seriniz %@ ve %d gün sürdü.";
+"ReadPagesAverageDaily" = "Günde okunan ortalama sayfa sayısı %.1f'dir.";
+"ReadPagesAverageMonthly" = "Ayda okunan ortalama sayfa sayısı %.1f'dir.";
+"ReadBooksAverageMonthly" = "Ayda okunan ortalama kitap sayısı %.1f'dir.";
+"Day" = "Gün";
+"Month" = "Ay";
+"LongestBooksRead" = "Daha uzun süre okunan kitaplar";
+"MostReadAuthors" = "En çok okunan yazarlar";
+"MostReadCategories" = "En çok okunan kategoriler";
+"ReadingChallengeWidgetDescription" = "Geçerli yıl için okuma zorluğu ilerlemesi";
+"NoChallenge" = "Meydan okuma yok";
+"Apply" = "Uygula";
+
+"GetReadingChallenge" = "Okuma Yarışması Alın";
+
+"ThisWeek" = "Bu hafta";
+"LastWeek" = "Geçen hafta";
+"ThisMonth" = "Bu Ay";
+"LastMonth" = "Geçen Ay";
+"ThisYear" = "Bu Yıl";
+"LastYear" = "Geçen Yıl";
+"%lld books read" = "%lld kitap okundu";
+"%lld book read" = "%lld kitap okuma";
+
+"AddTagsToBooks" = "Kitaplara Etiketler Ata";
+"AddSeriesToBooks" = "Kitaplara Seri Ata";
+"AddCategoriesToBooks" = "Kitaplara Kategori Ata";
+"AddAuthorsToBooks" = "Kitaplara Yazar Ata";
+"AddQuoteToBook" = "Kitaba Alıntı Ekle";
+"AddTagsToBooksDescription" = "Seçilen kitaplara bir veya daha fazla etiket atayın";
+"AddSeriesToBooksDescription" = "Seriyi seçili kitaplara atayın";
+"AddCategoriesToBooksDescription" = "Seçilen kitaplara bir veya daha fazla kategori atayın";
+"AddAuthorsToBooksDescription" = "Seçilen kitaplara bir veya daha fazla yazar atayın";
+"BooksQuestion" = "Kitaplar nelerdir";
+"OneOrMoreItemDoNotExist" = "Bir veya daha fazla öğe mevcut değil";
+"BooksUpdated" = "Kitaplar güncellendi";
+
+"GetCurrentReadingBook" = "Kitabın Okunmasını Al";
+"GetCurrentReadingBookDescription" = "Okumakta olduğunuz kitabı şimdi alın";
+"OpenLibrary" = "Kitaplığı Aç";
+"OpenLibraryDescription" = "Kütüphane kitap listesini aç";
+"OpenWishlist" = "İstek Listesini Aç";
+"OpenWishlistDescription" = "İstek listesini aç";
+"OpenCurrentReadingBook" = "Kitabı Okumak İçin Aç";
+"OpenCurrentReadingBookDescription" = "Okumakta olduğunuz kitabı açın";
+"Open" = "Aç";
+
+"OpenBook" = "Kitabı Aç";
+"OpenBookDescription" = "Seçilen kitabın ayrıntılarını aç";
+"$Open {book}" = "${book} dosyasını aç";
+"BarcodeScan" = "Barkodu Tara";
+"BarcodeScanDescription" = "Barkodu tarayarak kitap arayın";
+"SearchOnlineDescription" = "Yeni bir kitap ara";
+
+"Start" = "Başlama";
+"Next" = "Sonraki";
+"Previous" = "Öncesi";
+
+"Manage" = "Üstesinden gelmek";
+
+"OtherApps" = "Diğer uygulamalar";
