@@ -6,10 +6,10 @@
   Copyright © 2022 Simone Montalto. All rights reserved.
 */
 
-"Update reading progress in ${applicationName}" = "Aktualisieren Sie das Lesen Fortschritt in ${applicationName}";
+"Update reading progress in ${applicationName}" = "Aktualisieren Sie den Lese-Fortschritt in ${applicationName}";
 "Insert reading progress in ${applicationName}" = "Fügen Sie den Lesefortschritt in ${applicationName} ein";
-"Add new quote in ${applicationName}" = "Fügen Sie ein neues Angebot in ${applicationName} hinzu";
-"Save new quote in ${applicationName}" = "Speichern Sie ein neues Angebot in ${applicationName}";
+"Add new quote in ${applicationName}" = "Fügen Sie ein neues Zitat in ${applicationName} hinzu";
+"Save new quote in ${applicationName}" = "Speichern Sie ein neues Zitat in ${applicationName}";
 "Get reading challenge in ${applicationName}" = "Erhalte eine Leseherausforderung in ${applicationName}";
 "Show reading challenge in ${applicationName}" = "Leseherausforderung in ${applicationName} anzeigen";
 
