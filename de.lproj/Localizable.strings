@@ -453,7 +453,7 @@
 "ReadingChallengeNoReachedLastYearReadingChallenges" = "Letztes Jahr haben Sie eine %d Herausforderung zum Lesen von Büchern festgelegt, aber Ihr Ziel nicht erreicht. Versuchen Sie es dieses Jahr erneut.";
 "ReadingChallengeAlreadyExistError" = "Es gibt bereits eine Leseherausforderung für dieses Jahr. Möchten Sie sie überschreiben?";
 "ReadingChallengeDeleteMessage" = "Möchten Sie die Leseherausforderung löschen?";
-"ReadingStreak" = "Lesesetie";
+"ReadingStreak" = "Leseserie";
 "CurrentReadingStreak" = "Sie befinden sich in der längsten Leseserie, die am %@ begonnen hat und seit %d Tagen läuft.";
 "PastReadingStreak" = "Ihre längste Leseserie ist %@ und hat %d Tage gedauert.";
 "ReadPagesAverageDaily" = "Die durchschnittliche Anzahl der pro Tag gelesenen Seiten beträgt %.1f.";
