@@ -320,7 +320,7 @@
 "LeaveAReview" = "İnceleme bırak";
 
 "BookCoverNotFoundError" = "Kapak internette bulunamadı";
-"HideWishlistFromReadList" = "Masquer la liste de souhaits des listes de lecture";
+"HideWishlistFromReadList" = "İstek Listesini okuma listelerinden gizle";
 "AuthorListNameSurname" = "Yazarlar (isim)";
 "AuthorListSurnameName" = "Yazarlar (soyadı)";
 "SortByAuthorNameSurname" = "Yazara göre (isim)";
@@ -516,3 +516,4 @@
 "Manage" = "Üstesinden gelmek";
 
 "OtherApps" = "Diğer uygulamalar";
+"Contributors" = "Katkıda Bulunanlar";
