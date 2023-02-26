@@ -6,17 +6,17 @@
   Copyright © 2022 Simone Montalto. All rights reserved.
 */
 
-"Update reading progress in ${applicationName}" = "Mettre à jour les progrès de la lecture dans ${applicationName}";
-"Insert reading progress in ${applicationName}" = "Insérer des progrès de lecture dans ${applicationName}";
-"Add new quote in ${applicationName}" = "Ajouter un nouveau devis dans ${applicationName}";
+"Update reading progress in ${applicationName}" = "Mettre à jour le progrès de lecture dans ${applicationName}";
+"Insert reading progress in ${applicationName}" = "Insérer le progrès de lecture dans ${applicationName}";
+"Add new quote in ${applicationName}" = "Ajouter une nouvelle citation dans ${applicationName}";
 "Save new quote in ${applicationName}" = "Enregistrer une nouvelle citation dans ${applicationName}";
-"Get reading challenge in ${applicationName}" = "Obtenez un défi de lecture dans ${applicationName}";
+"Get reading challenge in ${applicationName}" = "Obtenir un défi de lecture dans ${applicationName}";
 "Show reading challenge in ${applicationName}" = "Afficher le défi de lecture dans ${applicationName}";
 
-"Open current reading book in ${applicationName}" = "Ouvrir le livre pour le lire dans ${applicationName}";
-"Show current reading book in ${applicationName}" = "Afficher le livre en cours de lecture dans ${applicationName}";
+"Open current reading book in ${applicationName}" = "Ouvrir le livre en cours dans ${applicationName}";
+"Show current reading book in ${applicationName}" = "Afficher le livre en cours dans ${applicationName}";
 "Open Library in ${applicationName}" = "Ouvrir la bibliothèque dans ${applicationName}";
-"Show Library book in ${applicationName}" = "Afficher la bibliothèque dans ${applicationName}";
+"Show Library book in ${applicationName}" = "Afficher un livre de la bibliothèque dans ${applicationName}";
 "Open Wishlist in ${applicationName}" = "Ouvrir la liste de souhaits dans ${applicationName}";
 "Show Wishlist book in ${applicationName}" = "Afficher la liste de souhaits dans ${applicationName}";
 
