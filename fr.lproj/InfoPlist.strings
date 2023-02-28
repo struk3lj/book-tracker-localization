@@ -8,7 +8,7 @@
 
 "CFBundleDisplayName" = "Book Track";
 "NSCameraUsageDescription" = "L'application a besoin d'accéder à votre appareil photo pour scanner le code-barres.";
-"NSPhotoLibraryUsageDescription" = "L'application a besoin d'accéder à vos photos pour ajouter les images à vos livres.";
+"NSPhotoLibraryUsageDescription" = "L'application a besoin d'accéder à vos photos pour ajouter des images à vos livres.";
 
 "UIApplicationShortcutItemTitle.Search" = "Rechercher";
 "UIApplicationShortcutItemTitle.Scan" = "Scanner un code-barres";
