@@ -743,3 +743,7 @@
 
 "ValueLowerThanPreviousProgressError" = "Введенный прогресс ниже, чем предыдущий прогресс.";
 "BookReadingTypeQuestion" = "Какой тип чтения книги?";
+"ManagePublishers" = "Управление издательствами";
+
+"AddAll" = "Добавить все";
+"FetchingCovers" = "Идет получение обложек...";

@@ -743,3 +743,7 @@
 
 "ValueLowerThanPreviousProgressError" = "The inserted progress is lower than the previous progress.";
 "BookReadingTypeQuestion" = "What's the book reading type?";
+"ManagePublishers" = "Manage publishers";
+
+"AddAll" = "Add all";
+"FetchingCovers" = "Fetching covers...";

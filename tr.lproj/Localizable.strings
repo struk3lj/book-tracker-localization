@@ -743,3 +743,7 @@
 
 "ValueLowerThanPreviousProgressError" = "Eklenen ilerleme, önceki ilerlemeden daha düşüktür.";
 "BookReadingTypeQuestion" = "Kitap okuma türü nedir?";
+"ManagePublishers" = "Yayınevi yönetimi";
+
+"AddAll" = "Tümünü ekle";
+"FetchingCovers" = "Kapaklar alınıyor...";

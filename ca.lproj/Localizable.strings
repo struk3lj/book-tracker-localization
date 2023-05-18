@@ -743,3 +743,7 @@
 
 "ValueLowerThanPreviousProgressError" = "El progrés inserit és inferior al progrés anterior.";
 "BookReadingTypeQuestion" = "Quin és el tipus de lectura del llibre?";
+"ManagePublishers" = "Gestiona editors";
+
+"AddAll" = "Afegir-ho tot";
+"FetchingCovers" = "Recuperant cobertes...";
