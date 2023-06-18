@@ -747,3 +747,5 @@
 
 "AddAll" = "Добавить все";
 "FetchingCovers" = "Идет получение обложек...";
+
+"HideAudiobookStatistics" = "Скрыть статистику аудиокниг";

@@ -747,3 +747,5 @@
 
 "AddAll" = "Agregar todo";
 "FetchingCovers" = "Obteniendo portadas..";
+
+"HideAudiobookStatistics" = "Ocultar estadísticas de audiolibros";

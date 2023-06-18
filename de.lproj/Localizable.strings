@@ -290,13 +290,13 @@
 "ImportSelectFileTitle" = "Book Track unterstützt den Import von Bibliotheken im CSV-Format. Wähle eine CSV-Datei aus, um deine Bibliothek aus einer anderen App oder einem anderen Dienst in Book Track zu importieren. Wenn du die Bibliothek aus Goodreads importieren möchtest, kannst du die CSV-Datei von der Goodreads-Website exportieren.";
 "ImportAssociateFieldsTitle" = "Book Track versucht automatisch, die Spaltennamen der CSV-Datei mit den Feldern in der App zu verknüpfen. Sollte ein Feld leer bleiben, wähle es aus, um es manuell zuordnen zu können. Wenn einige Felder in der CSV-Datei nicht verfügbar sind, können sie leer bleiben. Um mit dem Import fortzufahren, muss mindestens das Titelfeld ausgewählt werden.";
 
-"Location" = "Standort";
+"Location" = "Ort";
 "Bookcase" = "Bücherregal";
 "Shelf" = "Regal";
 "AddLocation" = "Ort hinzufügen";
 "AddSeriesPlaceholder" = "Füge Serien deiner Liste hinzu, indem du auf das +-Symbol tippst";
 "AddCategoriesPlaceholder" = "Füge Kategorien deiner Liste hinzu, indem du auf das Symbol + tippst";
-"AddLocationsPlaceholder" = "Füge Standorte deiner Liste hinzu, indem du auf das Symbol + tippst";
+"AddLocationsPlaceholder" = "Füge Orte deiner Liste hinzu, indem du auf das Symbol + tippst";
 "AddBookcasesPlaceholder" = "Füge Bücherregale deiner Liste hinzu, indem du auf das Symbol + tippst";
 "AddShelvesPlaceholder" = "Füge Regale deiner Liste hinzu, indem du auf das Symbol + tippst";
 "AddTagsPlaceholder" = "Füge Tags deiner Liste hinzu, indem du auf das +-Symbol tippst";
@@ -330,7 +330,7 @@
 "AUDIOBOOK" = "Hörbuch";
 "BookType" = "Buchart";
 
-"SelectLocation" = "Standort auswählen...";
+"SelectLocation" = "Ort auswählen...";
 "SelectBookcase" = "Bücherregal auswählen...";
 "SelectShelf" = "Fach auswählen...";
 "SelectBookcaseShelfError" = "Du musst ein Bücherregal und ein Fach auswählen, bevor du fortfahren kannst.";
@@ -516,7 +516,7 @@
 "Manage" = "Verwalten";
 
 "OtherApps" = "Andere Apps";
-"Contributors" = "MitwirkendeGerman";
+"Contributors" = "Beitragende";
 
 "PageNumber" = "Seite %d";
 "AddNote" = "Notiz hinzufügen";
@@ -591,12 +591,12 @@
 "Shelves" = "Regale";
 "SelectShelves" = "Regale auswählen";
 "NoShelvesPlaceholder" = "Es wurde kein Regal erstellt";
-"ManagePositions" = "Positionen verwalten";
+"ManagePositions" = "Orte verwalten";
 "SelectLocation" = "Ort auswählen";
 "SelectBookcase" = "Bücherregal auswählen";
 "SelectShelf" = "Regal auswählen";
-"SelectPosition" = "Position auswählen";
-"BookPosition" = "Position des Buches";
+"SelectPosition" = "Ort auswählen";
+"BookPosition" = "Ort des Buches";
 "FilterMatchAll" = "Alle ausgewählten";
 "FilterMatchAny" = "Mindestens eine der ausgewählten";
 "AddFilter" = "Filter hinzufügen";
@@ -619,16 +619,16 @@
 "NoLoansPlaceholder" = "Es wurden keine Ausleihen hinzugefügt";
 "StartLoanDate" = "Startdatum des Ausleihvorgangs";
 "EndLoanDate" = "Enddatum des Ausleihvorgangs";
-"AddLoan" = "Darlehen hinzufügen";
-"EditLoan" = "Darlehen bearbeiten";
-"EndLoan" = "Darlehen beenden";
+"AddLoan" = "Ausleihe hinzufügen";
+"EditLoan" = "Ausleihe bearbeiten";
+"EndLoan" = "Ausleihe beenden";
 "ManageContacts" = "Kontakte verwalten";
-"Loans" = "Darlehen";
-"Loan" = "Darlehen";
+"Loans" = "Ausleihe";
+"Loan" = "Ausleihe";
 "SelectDate" = "Datum auswählen";
 "SelectDateOptional" = "Datum auswählen (optional)";
 "AddReadingStatus" = "Lesezustand hinzufügen";
-"ReadingStates" = "Lesezustände";
+"ReadingStates" = "Lesestatus";
 "ReadingStatusPagesCompletion" = "%d von %d Seiten";
 "ReadingStatusTimeCompletion" = "%d von %d Minuten";
 "ReadingStatusPagesToCompletion" = "%d Seiten verbleiben";
@@ -645,7 +645,7 @@
 "ReadingTypePages" = "Seiten";
 "ReadingTypePercentage" = "Prozent";
 "ReadingTypeTime" = "Zeit";
-"ReadingProgress" = "Lesevorschritt";
+"ReadingProgress" = "Lesefortschritt";
 "OfNMinutes" = "von %lld Minuten";
 "OfPercentage" = "von 100%";
 "ReadingProgressExceedError" = "Der eingegebene Wert übersteigt den maximalen Wert";
@@ -729,7 +729,7 @@
 "AssignPublishers" = "Verlage zuweisen";
 "AssignCategories" = "Kategorien zuweisen";
 "AssignAuthors" = "Autoren zuweisen";
-"AssignPosition" = "Position zuweisen";
+"AssignPosition" = "Ort zuweisen";
 
 "AddPublishers" = "Verlage hinzufügen";
 "AddRating" = "Bewertung hinzufügen";
@@ -747,3 +747,5 @@
 
 "AddAll" = "Alle hinzufügen";
 "FetchingCovers" = "Lade Cover herunter...";
+
+"HideAudiobookStatistics" = "Hörbuchstatistiken ausblenden";
