@@ -749,3 +749,4 @@
 "FetchingCovers" = "Fetching covers...";
 
 "HideAudiobookStatistics" = "Hide audiobook statistics";
+"ProgressQuestion" = "Insert the current page, percentage complete, or total minutes listened (based on the type of reading progress created)";

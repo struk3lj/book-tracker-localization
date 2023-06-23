@@ -749,3 +749,4 @@
 "FetchingCovers" = "Recupero copertine...";
 
 "HideAudiobookStatistics" = "Nascondi statistiche audiolibri";
+"ProgressQuestion" = "Inserisci la pagina attuale, la percentuale di completamento o il totale dei minuti ascoltati (in base al tipo di progresso di lettura creato)";

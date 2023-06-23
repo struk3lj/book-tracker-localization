@@ -749,3 +749,4 @@
 "FetchingCovers" = "Recuperant cobertes...";
 
 "HideAudiobookStatistics" = "Amaga les estadístiques dels audiollibres";
+"ProgressQuestion" = "Introduzca la página actual, el porcentaje completado o el total de minutos escuchados (según el tipus de progrés de lectura creat)";
