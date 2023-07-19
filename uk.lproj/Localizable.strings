@@ -208,7 +208,7 @@
 "ShowLess" = "Показати менше";
 "ShowMore" = "Показати більше";
 "ManageSeries" = "Керувати серіями";
-"SentWithBookTrack" = "Надіслано з Book Track - Library Manager";
+"SentWithBookTrack" = "Надіслано з Book Tracker - Library Manager";
 "LoanedOut" = "Дано в борг";
 "Delete" = "Видалити";
 "Edit" = "Редагувати";
@@ -283,7 +283,7 @@
 "InAppPurchase" = "Покупка %@";
 "InAppRestore" = "Відновити покупку";
 "NoPurchaseToRestore" = "Немає покупок у програмі, які можна відновити для вашого облікового запису";
-"PremiumTitle" = "Book Track Pro";
+"PremiumTitle" = "Book Tracker Pro";
 "PremiumSubtitle" = "Розблокуйте всі функції";
 "Duplicate" = "Дублювати";
 
@@ -750,3 +750,13 @@
 
 "HideAudiobookStatistics" = "Приховати статистику аудіокниг";
 "ProgressQuestion" = "Вставте поточну сторінку, відсоток завершення або загальну кількість прослуханих хвилин (залежно від типу створеного прогресу читання)";
+
+"PaywallTitle1" = "Розблокуйте повний потенціал Book Tracker";
+"PaywallDescription1" = "Скористайтеся повним потенціалом Book Tracker для каталогізації ваших книг.";
+"PaywallTitle2" = "Підтримайте майбутні розробки";
+"PaywallFootnote" = "Розробка та постійне обслуговування повністю підтримується користувачами Book Tracker Pro.";
+"NumberOfBooksInLibrary" = "Кількість книг";
+"Feature" = "Функція";
+"Free" = "Безкоштовно";
+"Pro" = "Професійна версія";
+"Unlimited" = "Необмежено";

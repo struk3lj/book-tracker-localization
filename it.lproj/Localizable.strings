@@ -750,3 +750,13 @@
 
 "HideAudiobookStatistics" = "Nascondi statistiche audiolibri";
 "ProgressQuestion" = "Inserisci la pagina attuale, la percentuale di completamento o il totale dei minuti ascoltati (in base al tipo di progresso di lettura creato)";
+
+"PaywallTitle1" = "Sblocca tutte le potenzialità di Book Track";
+"PaywallDescription1" = "Sfrutta tutte le potenzialità di Book Track per catalogare i tuoi libri.";
+"PaywallTitle2" = "Supporta sviluppi futuri";
+"PaywallFootnote" = "Lo sviluppo e la manutenzione continua sono supportati al 100% dagli utenti di Book Track Pro.";
+"NumberOfBooksInLibrary" = "Numero di libri";
+"Feature" = "Feature";
+"Free" = "Gratis";
+"Pro" = "Pro";
+"Unlimited" = "Illimitato";

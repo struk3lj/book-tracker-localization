@@ -98,7 +98,7 @@
 "Gmail" = "Gmail";
 "Spark" = "Spark";
 
-"OnboardingTitle" = "What's New in Book Track";
+"OnboardingTitle" = "What's New in Book Tracker";
 "Onboarding1Title" = "Manage your library";
 "Onboarding1Message" = "Keep track of the books you have purchased and consult them easily";
 "Onboarding2Title" = "Manage your wish list";
@@ -132,7 +132,7 @@
 "ExportTitle" = "In which format do you want to export your books?";
 
 "ImportErrorTitle" = "Error";
-"ImportErrorMessage" = "It is not possible to import your books. You have to select a csv file. If you are not sure of the format of the file, try to export a csv file from Book Track and check the columns name.";
+"ImportErrorMessage" = "It is not possible to import your books. You have to select a csv file. If you are not sure of the format of the file, try to export a csv file from Book Tracker and check the columns name.";
 
 "ImportSuccessTitle" = "Congratulations";
 "ImportSuccessMessage" = "You have successfully imported your books in Book Track.\n\nTotal: %@\nSuccesses: %@\nErrors: %@";
@@ -183,7 +183,7 @@
 "ErrorOccurred" = "A problem has occurred. Try later";
 "CannotMakePurchase" = "Your device is not enabled for purchase";
 
-"Reddit" = "Book Track Community";
+"Reddit" = "Book Tracker Community";
 "Website" = "Website";
 "Twitter" = "Twitter";
 "Facebook" = "Facebook";
@@ -208,7 +208,7 @@
 "ShowLess" = "Show less";
 "ShowMore" = "Show more";
 "ManageSeries" = "Manage series";
-"SentWithBookTrack" = "Sent with Book Track - Library Manager";
+"SentWithBookTrack" = "Sent with Book Tracker - Library Manager";
 "LoanedOut" = "Loaned out";
 "Delete" = "Delete";
 "Edit" = "Edit";
@@ -273,22 +273,22 @@
 "Dark" = "Dark";
 "Light" = "Light";
 
-"InAppDescription" = "Hello 👋 Book Track was created by Simone 👨🏻‍💻 with the help of Carmen 👩🏻‍🎨! By becoming a Book Track Pro user with a single in-app purchase you can help us work on the app and receive new features!";
-"TipJarDescription" = "Hello 👋 Book Track was created by Simone 👨🏻‍💻 with the help of Carmen 👩🏻‍🎨! By becoming a Book Track Supporter user you can help us work on the app and receive new features!";
+"InAppDescription" = "Hello 👋 Book Tracker was created by Simone 👨🏻‍💻 with the help of Carmen 👩🏻‍🎨! By becoming a Book Tracker Pro user with a single in-app purchase you can help us work on the app and receive new features!";
+"TipJarDescription" = "Hello 👋 Book Tracker was created by Simone 👨🏻‍💻 with the help of Carmen 👩🏻‍🎨! By becoming a Book Tracker Supporter user you can help us work on the app and receive new features!";
 "InAppFeature1" = "Unlimited number of books";
 "InAppFeature2" = "Change the app icon";
 "InAppFeature3" = "Import and export your library";
 "InAppFeature4" = "Support an indie developer";
-"InAppFooter" = "Book Track requires two different purchases for the iOS (iPhone and iPad) and macOS version. The app respects your privacy and does not collect any data about you. All features are performed on your device and the data is synced through your iCloud account.";
+"InAppFooter" = "Book Tracker requires two different purchases for the iOS (iPhone and iPad) and macOS version. The app respects your privacy and does not collect any data about you. All features are performed on your device and the data is synced through your iCloud account.";
 "InAppPurchase" = "Purchase %@";
 "InAppRestore" = "Restore purchase";
 "NoPurchaseToRestore" = "There are no in-app purchases to restore with your account";
-"PremiumTitle" = "Book Track Pro";
+"PremiumTitle" = "Book Tracker Pro";
 "PremiumSubtitle" = "Unlock all features";
 "Duplicate" = "Duplicate";
 
-"ImportSelectFileTitle" = "Book Track supports the import of libraries in CSV format. Select a CSV file to import your library from another app or service into Book Track. If you want to import the library from Goodreads, you can export the CSV file from the Goodreads website.";
-"ImportAssociateFieldsTitle" = "Book Track automatically tries to associate the column names of the CSV file with the fields in the app. Should any field remain empty, select it to be able to associate it manually. If some fields are not available in the CSV file they can remain empty. In order to proceed with the import, at least the title field must be selected.";
+"ImportSelectFileTitle" = "Book Tracker supports the import of libraries in CSV format. Select a CSV file to import your library from another app or service into Book Track. If you want to import the library from Goodreads, you can export the CSV file from the Goodreads website.";
+"ImportAssociateFieldsTitle" = "Book Tracker automatically tries to associate the column names of the CSV file with the fields in the app. Should any field remain empty, select it to be able to associate it manually. If some fields are not available in the CSV file they can remain empty. In order to proceed with the import, at least the title field must be selected.";
 
 "Location" = "Location";
 "Bookcase" = "Bookcase";
@@ -750,3 +750,13 @@
 
 "HideAudiobookStatistics" = "Hide audiobook statistics";
 "ProgressQuestion" = "Insert the current page, percentage complete, or total minutes listened (based on the type of reading progress created)";
+
+"PaywallTitle1" = "Unlock the full potential of Book Tracker";
+"PaywallDescription1" = "Take advantage of the full potential of Book Tracker to catalog your books.";
+"PaywallTitle2" = "Support future development";
+"PaywallFootnote" = "Development and ongoing maintenance is supported 100% by Book Tracker Pro users.";
+"NumberOfBooksInLibrary" = "Number of books";
+"Feature" = "Feature";
+"Free" = "Free";
+"Pro" = "Pro";
+"Unlimited" = "Unlimited";

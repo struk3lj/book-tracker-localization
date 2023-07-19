@@ -750,3 +750,13 @@
 
 "HideAudiobookStatistics" = "Sesli kitap istatistiklerini gizle";
 "ProgressQuestion" = "Geçerli sayfayı, tamamlanan yüzdeyi veya dinlenen toplam dakikayı ekleyin (oluşturulan okuma ilerlemesinin türüne bağlı olarak)";
+
+"PaywallTitle1" = "Book Track'in tam potansiyelini açın";
+"PaywallDescription1" = "Kitaplarınızı kataloglamak için Book Track'in tam potansiyelinden faydalanın.";
+"PaywallTitle2" = "Gelecek gelişimi destekleyin";
+"PaywallFootnote" = "Geliştirme ve sürekli bakım, Book Track Pro kullanıcıları tarafından %100 desteklenir.";
+"NumberOfBooksInLibrary" = "Kitap sayısı";
+"Feature" = "Özellik";
+"Free" = "Ücretsiz";
+"Pro" = "Pro";
+"Unlimited" = "Sınırsız";

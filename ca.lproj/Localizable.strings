@@ -750,3 +750,13 @@
 
 "HideAudiobookStatistics" = "Amaga les estadístiques dels audiollibres";
 "ProgressQuestion" = "Introduzca la página actual, el porcentaje completado o el total de minutos escuchados (según el tipus de progrés de lectura creat)";
+
+"PaywallTitle1" = "Desbloqueja tot el potencial de Book Track";
+"PaywallDescription1" = "Aprofita tot el potencial de Book Track per catalogar els teus llibres.";
+"PaywallTitle2" = "Dóna suport al desenvolupament futur";
+"PaywallFootnote" = "El desenvolupament i el manteniment continu estan recolzats al 100% pels usuaris de Book Track Pro.";
+"NumberOfBooksInLibrary" = "Nombre de llibres";
+"Feature" = "Funció";
+"Free" = "Gratuït";
+"Pro" = "Pro";
+"Unlimited" = "Sense límits";
