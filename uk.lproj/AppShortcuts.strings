@@ -3,14 +3,13 @@
   BookTrackApp
 
   Created by Simone Montalto on 14/09/22.
-  Translated by Mykhailo Afanasyev on 20/06/23
   Copyright © 2022 Simone Montalto. All rights reserved.
 */
 
-"Update reading progress in ${applicationName}" = "Оновити прогрес читання в ${applicationName}";
-"Insert reading progress in ${applicationName}" = "Вставити прогрес читання в ${applicationName}";
-"Add new quote in ${applicationName}" = "Додати нову цитату в ${applicationName}";
-"Save new quote in ${applicationName}" = "Зберегти нову цитату в ${applicationName}";
+"Update ${book} reading progress in ${applicationName}" = "Оновити прогрес читання ${book} в ${applicationName}";
+"Insert ${book} reading progress in ${applicationName}" = "Вставити прогрес читання ${book} в ${applicationName}";
+"Add new quote to ${book} in ${applicationName}" = "Додати нову цитату до ${book} в ${applicationName}";
+"Save new quote to ${book} in ${applicationName}" = "Зберегти нову цитату до ${book} в ${applicationName}";
 "Get reading challenge in ${applicationName}" = "Отримати читацький виклик в ${applicationName}";
 "Show reading challenge in ${applicationName}" = "Показати читацький виклик в ${applicationName}";
 

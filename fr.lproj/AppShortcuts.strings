@@ -1,4 +1,4 @@
-/* 
+/*
   AppShortcuts.strings
   BookTrackApp
 
@@ -6,10 +6,10 @@
   Copyright © 2022 Simone Montalto. All rights reserved.
 */
 
-"Update reading progress in ${applicationName}" = "Mettre à jour le progrès de lecture dans ${applicationName}";
-"Insert reading progress in ${applicationName}" = "Insérer le progrès de lecture dans ${applicationName}";
-"Add new quote in ${applicationName}" = "Ajouter une nouvelle citation dans ${applicationName}";
-"Save new quote in ${applicationName}" = "Enregistrer une nouvelle citation dans ${applicationName}";
+"Update ${book} reading progress in ${applicationName}" = "Mettre à jour la progression de lecture de ${book} dans ${applicationName}";
+"Insert ${book} reading progress in ${applicationName}" = "Insérer la progression de lecture de ${book} dans ${applicationName}";
+"Add new quote to ${book} in ${applicationName}" = "Ajouter une nouvelle citation à ${book} dans ${applicationName}";
+"Save new quote to ${book} in ${applicationName}" = "Enregistrer une nouvelle citation à ${book} dans ${applicationName}";
 "Get reading challenge in ${applicationName}" = "Obtenir un défi de lecture dans ${applicationName}";
 "Show reading challenge in ${applicationName}" = "Afficher le défi de lecture dans ${applicationName}";
 
