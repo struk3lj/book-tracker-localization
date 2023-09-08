@@ -505,7 +505,7 @@
 "OpenBook" = "Open Book";
 "OpenBookDescription" = "Open the details of the selected book";
 "Open ${book}" = "Open ${book}";
-"BarcodeScan" = "Scan Barcode";
+"BarcodeScan" = "Scan";
 "BarcodeScanDescription" = "Search for a book by scanning the barcode";
 "SearchOnlineDescription" = "Search for a new book";
 
@@ -760,3 +760,7 @@
 "Free" = "Free";
 "Pro" = "Pro";
 "Unlimited" = "Unlimited";
+
+"GetBookNotes" = "Get Book Notes";
+"GetBookNotesDescription" = "Get notes from a specific book";
+"Get notes for ${book}" = "Get notes for ${book}";

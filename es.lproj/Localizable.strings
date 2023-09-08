@@ -760,3 +760,7 @@
 "Free" = "Gratis";
 "Pro" = "Pro";
 "Unlimited" = "Sin límites";
+
+"GetBookNotes" = "Obtener Notas del Libro";
+"GetBookNotesDescription" = "Obtener notas de un libro específico";
+"Get notes for ${book}" = "Obtener notas para ${book}";

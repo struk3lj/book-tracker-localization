@@ -760,3 +760,7 @@
 "Free" = "Бесплатно";
 "Pro" = "Pro";
 "Unlimited" = "Неограниченно";
+
+"GetBookNotes" = "Получить заметки книги";
+"GetBookNotesDescription" = "Получите заметки из определенной книги";
+"Get notes for ${book}" = "Получить заметки для ${book}";
