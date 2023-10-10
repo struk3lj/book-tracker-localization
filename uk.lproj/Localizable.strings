@@ -144,13 +144,14 @@
 "SelectImage" = "Обрати зображення";
 
 "SelectIcon" = "Обрати значок додатку";
-"AppIconDefault" = "За замовчуванням";
-"AppIconBlack" = "Чорний";
-"AppIconWhite" = "Білий";
-"AppIconLaunched" = "Launched";
-"AppIconBigSur" = "Big Sur";
-"AppIconClassic" = "Класичний";
-"AppIconBigSurClassic" = "Big Sur - Класичний";
+"AppIconV3" = "За замовчуванням";
+"AppIconClassicV2" = "Класичний - v2";
+"AppIconMacClassicV2" = "Класичний - Mac v2";
+"AppIconClassicV1" = "Класичний - v1";
+"AppIconMacClassicV1" = "Класичний - Mac v1";
+"AppIconBlackClassic" = "Класичний - Чорний";
+"AppIconWhiteClassic" = "Класичний - Білий";
+"AppIconLaunchedClassic" = "Класичний - Launched";
 
 "Ascending" = "Збільшення";
 "Descending" = "Зменшення";
@@ -425,7 +426,7 @@
 "AddTagDescription" = "Додати новий тег";
 "AddSeriesDescription" = "Додати нову серію";
 
-"Add book ${title} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "Додати книгу ${title} за авторством ${authors} з ${categories}, ${tags}, ${series} та ${image}";
+"Add book ${bookTitle} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "Додати книгу ${bookTitle} за авторством ${authors} з ${categories}, ${tags}, ${series} та ${image}";
 "Edit the ${book} info" = "Редагувати інформацію ${book}";
 "Add quote ${quote} to ${book}" = "Додати цитату ${quote} до ${book}";
 "Insert the current page ${page} for ${book}" = "Ввести поточну сторінку ${page} для ${book}";
@@ -505,7 +506,7 @@
 "OpenBook" = "Відкрити книгу";
 "OpenBookDescription" = "Відкрийте детальну інформацію про вибрану книгу";
 "Open ${book}" = "Відкрити ${book}";
-"BarcodeScan" = "Сканувати штрих-код";
+"BarcodeScan" = "Сканувати";
 "BarcodeScanDescription" = "Шукати книгу за допомогою сканування штрих-коду";
 "SearchOnlineDescription" = "Шукати нову книгу";
 

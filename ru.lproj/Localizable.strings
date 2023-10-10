@@ -144,13 +144,14 @@
 "SelectImage" = "Выбрать изображение";
 
 "SelectIcon" = "Иконка";
-"AppIconDefault" = "По умолчанию";
-"AppIconBlack" = "Чёрная";
-"AppIconWhite" = "Белая";
-"AppIconLaunched" = "Launched";
-"AppIconBigSur" = "Big Sur";
-"AppIconClassic" = "Классическая";
-"AppIconBigSurClassic" = "Big Sur - Классическая";
+"AppIconV3" = "По умолчанию";
+"AppIconClassicV2" = "Классическая - v2";
+"AppIconMacClassicV2" = "Классическая - Mac v2";
+"AppIconClassicV1" = "Классическая - v1";
+"AppIconMacClassicV1" = "Классическая - Mac v1";
+"AppIconBlackClassic" = "Классическая - Чёрная";
+"AppIconWhiteClassic" = "Классическая - Белая";
+"AppIconLaunchedClassic" = "Классическая - Launched";
 
 "Ascending" = "По возрастанию";
 "Descending" = "По убыванию";
@@ -425,7 +426,7 @@
 "AddTagDescription" = "Добавить новый тег";
 "AddSeriesDescription" = "Добавить новую серию";
 
-"Add book ${title} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "Добавить книгу ${title} от ${authors} с ${categories}, ${tags}, ${series} и ${image}";
+"Add book ${bookTitle} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "Добавить книгу ${bookTitle} от ${authors} с ${categories}, ${tags}, ${series} и ${image}";
 "Edit the ${book} info" = "Редактировать информацию ${book}";
 "Add quote ${quote} to ${book}" = "Добавить цитату ${quote} в ${book}";
 "Insert the current page ${page} for ${book}" = "Вставьте текущую страницу ${page} для ${book}";
@@ -505,7 +506,7 @@
 "OpenBook" = "Открытая книга";
 "OpenBookDescription" = "Открыть сведения о выбранной книге";
 "Open ${book}" = "Открыть ${book}";
-"BarcodeScan" = "Сканировать штрих-код";
+"BarcodeScan" = "Сканирование";
 "BarcodeScanDescription" = "Поиск книги по штрих-коду";
 "SearchOnlineDescription" = "Поиск новой книги";
 

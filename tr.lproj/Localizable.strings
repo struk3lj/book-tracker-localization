@@ -144,13 +144,14 @@
 "SelectImage" = "Resmi seç";
 
 "SelectIcon" = "Uygulama simgesi seçin";
-"AppIconDefault" = "Varsayılan";
-"AppIconBlack" = "Siyah";
-"AppIconWhite" = "Beyaz";
-"AppIconLaunched" = "Ayarlandı";
-"AppIconBigSur" = "Big Sur";
-"AppIconClassic" = "Klasik";
-"AppIconBigSurClassic" = "Big Sur - Klasik";
+"AppIconV3" = "Varsayılan";
+"AppIconClassicV2" = "Klasik - v2";
+"AppIconMacClassicV2" = "Klasik - Mac v2";
+"AppIconClassicV1" = "Klasik - v1";
+"AppIconMacClassicV1" = "Klasik - Mac v1";
+"AppIconBlackClassic" = "Klasik - Siyah";
+"AppIconWhiteClassic" = "Klasik - Beyaz";
+"AppIconLaunchedClassic" = "Klasik - Launched";
 
 "Ascending" = "Artan";
 "Descending" = "Azalan";
@@ -425,7 +426,7 @@
 "AddTagDescription" = "Yeni bir etiket ekle";
 "AddSeriesDescription" = "Yeni bir dizi ekle";
 
-"Add book ${title} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "${title} tarafından ${authors} tarafından ${categories}, ${tags}, ${series} ve ${image} ile kitabı ekleyin.";
+"Add book ${bookTitle} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "${bookTitle} tarafından ${authors} tarafından ${categories}, ${tags}, ${series} ve ${image} ile kitabı ekleyin.";
 "Edit the ${book} info" = "${book} bilgilerini düzenleyin";
 "Add quote ${quote} to ${book}" = "${quote} 'a teklif ekleyin ${book}";
 "Insert the current page ${page} for ${book}" = "${book} için geçerli sayfa ${page} ekleyin";
@@ -505,7 +506,7 @@
 "OpenBook" = "Kitabı Aç";
 "OpenBookDescription" = "Seçilen kitabın ayrıntılarını aç";
 "$Open {book}" = "${book} dosyasını aç";
-"BarcodeScan" = "Barkodu Tara";
+"BarcodeScan" = "Tarama";
 "BarcodeScanDescription" = "Barkodu tarayarak kitap arayın";
 "SearchOnlineDescription" = "Yeni bir kitap ara";
 

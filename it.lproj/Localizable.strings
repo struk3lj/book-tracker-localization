@@ -144,13 +144,14 @@
 "SelectImage" = "Seleziona immagine";
 
 "SelectIcon" = "Seleziona icona app";
-"AppIconDefault" = "Default";
-"AppIconBlack" = "Nera";
-"AppIconWhite" = "Bianca";
-"AppIconLaunched" = "Launched";
-"AppIconBigSur" = "Big Sur";
-"AppIconClassic" = "Classica";
-"AppIconBigSurClassic" = "Big Sur - Classica";
+"AppIconV3" = "Default";
+"AppIconClassicV2" = "Classica v2";
+"AppIconMacClassicV2" = "Mac Classica v2";
+"AppIconClassicV1" = "Classica v1";
+"AppIconMacClassicV1" = "Mac Classica v1";
+"AppIconBlackClassic" = "Nera Classica";
+"AppIconWhiteClassic" = "Bianca Classica";
+"AppIconLaunchedClassic" = "Launched Classica";
 
 "Ascending" = "Ascendente";
 "Descending" = "Discendente";
@@ -425,7 +426,7 @@
 "AddTagDescription" = "Aggiungi un nuovo tag";
 "AddSeriesDescription" = "Aggiungi una nuova serie";
 
-"Add book ${title} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "Aggiungi libro ${title} di ${authors} con ${categories}, ${tags}, ${series} e ${image}";
+"Add book ${bookTitle} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "Aggiungi libro ${bookTitle} di ${authors} con ${categories}, ${tags}, ${series} e ${image}";
 "Edit the ${book} info" = "Modifica le info di ${book}";
 "Add quote ${quote} to ${book}" = "Aggiungi ${quote} a ${book}";
 "Insert the current page ${page} for ${book}" = "Inserisci la pagina corrente ${page} per ${book}";
@@ -505,7 +506,7 @@
 "OpenBook" = "Apri Libro";
 "OpenBookDescription" = "Apri i dettagli del libro selezionato";
 "Open ${book}" = "Apri ${book}";
-"BarcodeScan" = "Scansiona Codice a Barre";
+"BarcodeScan" = "Scansiona";
 "BarcodeScanDescription" = "Cerca un libro scansionando il codice a barre";
 "SearchOnlineDescription" = "Cerca un nuovo libro";
 

@@ -144,13 +144,14 @@
 "SelectImage" = "Seleccionar la imatge";
 
 "SelectIcon" = "Selecciona la icona de l'aplicació";
-"AppIconDefault" = "Per defecte";
-"AppIconBlack" = "Negre";
-"AppIconWhite" = "Blanc";
-"AppIconLaunched" = "Launched";
-"AppIconBigSur" = "Big Sur";
-"AppIconClassic" = "Clàssic";
-"AppIconBigSurClassic" = "Big Sur - Clàssic";
+"AppIconV3" = "Per defecte";
+"AppIconClassicV2" = "Clàssic - v2";
+"AppIconMacClassicV2" = "Clàssic - Mac v2";
+"AppIconClassicV1" = "Clàssic - v1";
+"AppIconMacClassicV1" = "Clàssic - Mac v1";
+"AppIconBlackClassic" = "Clàssic - Negre";
+"AppIconWhiteClassic" = "Clàssic - Blanc";
+"AppIconLaunchedClassic" = "Clàssic - Launched";
 
 "Ascending" = "Ascendent";
 "Descending" = "Descendent";
@@ -425,7 +426,7 @@
 "AddTagDescription" = "Afegiu una nova etiqueta";
 "AddSeriesDescription" = "Afegiu una nova sèrie";
 
-"Add book ${title} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "Afegeix llibre ${title} by ${authors} amb ${categories}, ${tags}, ${series} i ${image}";
+"Add book ${bookTitle} by ${authors} with ${categories}, ${tags}, ${series} and ${image}" = "Afegeix llibre ${bookTitle} by ${authors} amb ${categories}, ${tags}, ${series} i ${image}";
 "Edit the ${book} info" = "Edita la informació ${book}";
 "Add quote ${quote} to ${book}" = "Afegeix cita ${quote} a ${book}";
 "Insert the current page ${page} for ${book}" = "Inseriu la pàgina actual ${page} per a ${book}";
@@ -505,7 +506,7 @@
 "OpenBook" = "Llibre obert";
 "OpenBookDescription" = "Obre els detalls del llibre seleccionat";
 "Open ${book}" = "Obre ${book}";
-"BarcodeScan" = "Escaneja el codi de barres";
+"BarcodeScan" = "Escaneja";
 "BarcodeScanDescription" = "Cerca un llibre escanejant el codi de barres";
 "SearchOnlineDescription" = "Cerca un llibre nou";
 
