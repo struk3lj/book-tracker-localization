@@ -765,3 +765,5 @@
 "GetBookNotes" = "Отримати нотатки до книги";
 "GetBookNotesDescription" = "Отримайте нотатки з певної книги";
 "Get notes for ${book}" = "Отримати нотатки для ${book}";
+
+"ExportQuotes" = "Експортні Цитати";

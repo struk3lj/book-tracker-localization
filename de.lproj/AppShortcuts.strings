@@ -6,6 +6,8 @@
   Copyright © 2022 Simone Montalto. All rights reserved.
 */
 
+"Update reading progress in ${applicationName}" = "Aktualisiere den Lese-Fortschritt in ${applicationName}";
+"Insert reading progress in ${applicationName}" = "Füge den Lesefortschritt in ${applicationName} ein";
 "Update ${book} reading progress in ${applicationName}" = "Aktualisiere den Lesefortschritt von ${book} in ${applicationName}";
 "Insert ${book} reading progress in ${applicationName}" = "Füge den Lesefortschritt von ${book} in ${applicationName} ein";
 "Add new quote to ${book} in ${applicationName}" = "Füge ein neues Zitat zu ${book} in ${applicationName} hinzu";

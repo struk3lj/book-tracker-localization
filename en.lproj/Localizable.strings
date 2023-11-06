@@ -765,3 +765,5 @@
 "GetBookNotes" = "Get Book Notes";
 "GetBookNotesDescription" = "Get notes from a specific book";
 "Get notes for ${book}" = "Get notes for ${book}";
+
+"ExportQuotes" = "Export quotes";

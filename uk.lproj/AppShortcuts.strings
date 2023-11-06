@@ -6,6 +6,8 @@
   Copyright © 2022 Simone Montalto. All rights reserved.
 */
 
+"Update reading progress in ${applicationName}" = "Оновити прогрес читання в ${applicationName}";
+"Insert reading progress in ${applicationName}" = "Вставити прогрес читання в ${applicationName}";
 "Update ${book} reading progress in ${applicationName}" = "Оновити прогрес читання ${book} в ${applicationName}";
 "Insert ${book} reading progress in ${applicationName}" = "Вставити прогрес читання ${book} в ${applicationName}";
 "Add new quote to ${book} in ${applicationName}" = "Додати нову цитату до ${book} в ${applicationName}";

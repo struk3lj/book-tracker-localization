@@ -765,3 +765,5 @@
 "GetBookNotes" = "Buchnotizen abrufen";
 "GetBookNotesDescription" = "Holen Sie sich Notizen aus einem bestimmten Buch";
 "Get notes for ${book}" = "Holen Sie sich Notizen für ${book}";
+
+"ExportQuotes" = "EZitate exportieren";

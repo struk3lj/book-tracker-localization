@@ -765,3 +765,5 @@
 "GetBookNotes" = "Kitap Notlarını Al";
 "GetBookNotesDescription" = "Belirli bir kitaptan notlar al";
 "Get notes for ${book}" = "${book} için notları al";
+
+"ExportQuotes" = "Alıntılar dışa aktar";

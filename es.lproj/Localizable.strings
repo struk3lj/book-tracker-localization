@@ -765,3 +765,5 @@
 "GetBookNotes" = "Obtener Notas del Libro";
 "GetBookNotesDescription" = "Obtener notas de un libro específico";
 "Get notes for ${book}" = "Obtener notas para ${book}";
+
+"ExportQuotes" = "Citas de exportación";
