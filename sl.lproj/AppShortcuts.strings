@@ -1,0 +1,27 @@
+/* 
+  AppShortcuts.strings
+  BookTrackApp
+
+  Created by Simone Montalto on 14/09/22.
+  Translated by Maj Štrukelj on 06/11/23.
+  Copyright © 2022 Simone Montalto. All rights reserved.
+*/
+
+"Update reading progress in ${applicationName}" = "Posodobi napredek branja v ${applicationName}";
+"Insert reading progress in ${applicationName}" = "Vnesi napredek branja v ${applicationName}";
+"Update ${book} reading progress in ${applicationName}" = "Posodobi napredek branje ${book} v ${applicationName}";
+"Insert ${book} reading progress in ${applicationName}" = "Vnesi napredek branje ${book} v ${applicationName}";
+"Add new quote to ${book} in ${applicationName}" = "Dodaj nov citat iz ${book} v ${applicationName}";
+"Save new quote to ${book} in ${applicationName}" = "Shrani nov citat iz ${book} v ${applicationName}";
+"Get reading challenge in ${applicationName}" = "Pridobi bralni izziv v ${applicationName}";
+"Show reading challenge in ${applicationName}" = "Prikaži bralni izziv v ${applicationName}";
+
+"Open current reading book in ${applicationName}" = "Odpri trenutno knjigo za branje v ${applicationName}";
+"Show current reading book in ${applicationName}" = "Pokaži trenutno knjigo za branje v ${applicationName}";
+"Open Library in ${applicationName}" = "Odpri knjižnico v ${applicationName}";
+"Show Library book in ${applicationName}" = "Prikaži knjižnično knjige v ${applicationName}";
+"Open Wishlist in ${applicationName}" = "Odpri seznam želja v ${applicationName}";
+"Show Wishlist book in ${applicationName}" = "Odpri seznam želja knjig v ${applicationName}";
+
+"Scan Barcode in ${applicationName}" = "Skeniraj črtno kodo v ${applicationName}";
+"Search Online in ${applicationName}" = "Iskanje na spletu v ${applicationName}";
