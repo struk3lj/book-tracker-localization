@@ -1,0 +1,16 @@
+/* 
+  InfoPlist.strings
+  library
+
+  Created by Simone Montalto on 27/10/2019.
+  Translated by Maj Štrukelj on 06/11/23.
+  Copyright © 2019 Simone Montalto. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Book Tracker";
+"NSCameraUsageDescription" = "Za skeniranje črtne kode tvoje knjige je potreben dostop do tvoje kamere.";
+"NSPhotoLibraryUsageDescription" = "Potreben je dostop do tvoje galerije fotografij, da naložiš slike, ki jih želiš priložiti svojim knjigam.";
+
+"UIApplicationShortcutItemTitle.Search" = "Iskanje";
+"UIApplicationShortcutItemTitle.Scan" = "Skeniranje črtne kode";
+"UIApplicationShortcutItemTitle.ManualInsert" = "Ročni vnos";
